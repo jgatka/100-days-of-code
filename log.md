@@ -20,7 +20,7 @@
 
 Having successfully created a new app, I decided to upload the project to github. The fact that I'm a serious InfoSec professional who uses multi-factor authentication caused me some problems tonight. I had to do a deep dive and learn how to use MFA in github with SSH keys and user tokens. It took me longer to troubleshoot this than it did to write my app! But alas, at about 12:30am I finally got things figured out and now my code is available in github. Perhaps I'll revisit it later and refactor it with some switch cases and some try/catch blocks.
 
-**Thoughts:** It's interesting that the github troubleshooting took longer to deal with than writing the app itself. I suppose that's the nature of the beast though. Years of InfoSec experience has taught me to remain calm when fires need to be put out. Special thanks to my buddy Samuel Kelemen for helping me troublshoot the github issues. I linked to his github below and you should check it out.
+**Thoughts:** It's interesting that the github troubleshooting took longer to deal with than writing the app itself. I suppose that's the nature of the beast though. Years of InfoSec experience has taught me to remain calm when fires need to be put out. Special thanks to my buddy Samuel Kelemen for helping me troubleshoot the github issues. I linked to his github below and you should check it out.
 
 **Link(s) to work:**
 * [Roman Numerals Encoder](https://github.com/jgatka/RomanNumeralsEncoder)
