@@ -1,7 +1,7 @@
 # 100 Days Of Code - Log
 
 ### Day 0: December 31, 2018
-#### _Getting ready_
+#### _Getting Ready_
 
 **Today's Progress:** Forked the original github repo for 100 days of code. I decided that for this, my first "round" of #100daysofcode I'm going to focus on C#/.NET development. I plan on completing some C# coursework and also doing codewars.com exercises in order to actually build things using what I've learned.
 
@@ -28,3 +28,27 @@ Having successfully created a new app, I decided to upload the project to github
 
 <hr />
 
+### Day 2: January 2, 2018
+#### _Started Gray Hat C#_
+
+**Today's Progress:** Having spent a good amount of my day at work writing and running powershell scripts, I decided to crack into the _Gray Hat C#_ book that I recently purchased as part of Humble Bundle's holiday hacking bundle. I read the table of contents and the first chapter, which is primarily a crash course intro to C# and mostly covered concepts I already know. 
+
+**Thoughts:** Since I didn't write a whole lot of code today, there's temptation to feel like the day was wasted. I'm fighting that feeling. I learned some new concepts, I learned about the existence of some IDEs, and I learned about a linux answer to C# called "Mono". The importan thing is that _I LEARNED_ today. This book covers some really cool projects and teaches ways to automate some security testing, which I know I will need to do in my career. I'm stoked to read more of it.
+
+**Link(s):**
+* [Gray Hat C# (No Starch Press)](https://nostarch.com/grayhatcsharp)
+
+<hr />
+
+### Day 3: January 3, 2018
+#### _Improving The Basics_
+
+**Today's Progress:** I completed module 5: _Accessing and using classes_ in the Pluralsight course _C# Best Practices: Improving on the Basics_, taught by Deborah Kurata.
+
+**Thoughts:** This was challenging. I need to get back to **writing** code tomorrow and hopefully find some way to practice the many concepts that were covered in this module. Topics like initialization, instantiating, null checking, and the various ways to assign fields in classes, and the use cases for each.
+
+**Link(s):**
+* [Deborah Kurata on Twitter](https://twitter.com/DeborahKurata)
+* [C# Best Practices: Improving on the Basics (Pluralsight)](https://app.pluralsight.com/library/courses/csharp-best-practices-improving-basics)
+
+<hr />
