@@ -1,6 +1,6 @@
 # 100 Days Of Code - Log
 
-### Day 0: December 31, 2018
+### Day 0: December 31, 2019
 #### _Getting Ready_
 
 **Today's Progress:** Forked the original github repo for 100 days of code. I decided that for this, my first "round" of #100daysofcode I'm going to focus on C#/.NET development. I plan on completing some C# coursework and also doing codewars.com exercises in order to actually build things using what I've learned.
@@ -13,7 +13,7 @@
 
 <hr />
 
-### Day 1: January 1, 2018
+### Day 1: January 1, 2019
 #### _Arabic to Roman and Github Woes_
 
 **Today's Progress:** As a way to get back into serious coding after some months off, I revisited codewars and decided to take on the "Roman Numerals Encoder" Challenge, requires an app to take an integer greater than zero and convert it to a roman numeral. I knocked it out, and posting the code into codewars and watching all of the unit tests pass was SO SATISFYING. I even leveled up! I'm stoked to be back to writing code.
@@ -28,7 +28,7 @@ Having successfully created a new app, I decided to upload the project to github
 
 <hr />
 
-### Day 2: January 2, 2018
+### Day 2: January 2, 2019
 #### _Started Gray Hat C#_
 
 **Today's Progress:** Having spent a good amount of my day at work writing and running powershell scripts, I decided to crack into the _Gray Hat C#_ book that I recently purchased as part of Humble Bundle's holiday hacking bundle. I read the table of contents and the first chapter, which is primarily a crash course intro to C# and mostly covered concepts I already know. 
@@ -40,7 +40,7 @@ Having successfully created a new app, I decided to upload the project to github
 
 <hr />
 
-### Day 3: January 3, 2018
+### Day 3: January 3, 2019
 #### _Improving The Basics_
 
 **Today's Progress:** I completed module 5: _Accessing and using classes_ in the Pluralsight course _C# Best Practices: Improving on the Basics_, taught by Deborah Kurata.
@@ -51,4 +51,15 @@ Having successfully created a new app, I decided to upload the project to github
 * [Deborah Kurata on Twitter](https://twitter.com/DeborahKurata)
 * [C# Best Practices: Improving on the Basics (Pluralsight)](https://app.pluralsight.com/library/courses/csharp-best-practices-improving-basics)
 
+<hr />
+
+### Days 4, 5, and 6: January 4-6, 2019
+
+**Today's Progress:** After giving it some thought, I finally came up with a good app to put the OOP skills I'm learning on pluralsight into practice. I created a github repo for an app to generate a character for 5th edition D&D and started coding it. 
+
+**Thoughts:** Rough couple of days emotionally, normally I'd have made more progress than this but at least I took some time each day to actually code.**
+
+**Link(s):**
+* [FyVee](https://github.com/jgatka/FyVee)
+* [Dungeons & Dragons](http://dnd.wizards.com/)
 <hr />
