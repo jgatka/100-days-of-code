@@ -55,11 +55,24 @@ Having successfully created a new app, I decided to upload the project to github
 
 ### Days 4, 5, and 6: January 4-6, 2019
 
-**Today's Progress:** After giving it some thought, I finally came up with a good app to put the OOP skills I'm learning on pluralsight into practice. I created a github repo for an app to generate a character for 5th edition D&D and started coding it. 
+**Progress:** After giving it some thought, I finally came up with a good app to put the OOP skills I'm learning on pluralsight into practice. I created a github repo for an app to generate a character for 5th edition D&D and started coding it. 
 
 **Thoughts:** Rough couple of days emotionally, normally I'd have made more progress than this but at least I took some time each day to actually code.**
 
 **Link(s):**
 * [FyVee](https://github.com/jgatka/FyVee)
 * [Dungeons & Dragons](http://dnd.wizards.com/)
+
+<hr />
+
+### Days 7, 8, and 9: January 7-9, 2019
+
+**Progress:** I added the properties for ability scores to the Hero class of FyVee. I also set up my work PC so that I'm able to make changes from there. Sometimes I prefer the well lit standing desk I have at work. Sometimes (it's rare) I prefer to code _without_ a cat on my lap.
+
+**Thoughts:** The propfull snippit in visual studio is awesome. I've gotten the hang of adding properties to a class using this shortcut. The hero class now has ability scores (strength, constitution, wisdom, intelligence, dexterity, charisma) as well as languages, which will be selected from a list. I got a decent amount of practice with OOP and the basics over the last few days, which is rad.
+
+**Link(s):**
+* [FyVee](https://github.com/jgatka/FyVee)
+* [Dungeons & Dragons](http://dnd.wizards.com/)
+
 <hr />
