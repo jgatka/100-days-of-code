@@ -76,3 +76,15 @@ Having successfully created a new app, I decided to upload the project to github
 * [Dungeons & Dragons](http://dnd.wizards.com/)
 
 <hr />
+
+### Days 10-20, January 10-20, 2019
+
+**Progress:** Added a list for languages in the FyVee App.
+
+**Thoughts:** Got some news from my family about my grandfather's health that hit me hard. I'm also down to just 2 people on my team at work. This time last year we had 7. I thought about just abandoning this project and returning to 100 days of code later in the year, but that's not what my grandfather would want me to do, and it's not healthy or productive to completely start over when you get derailed or knocked off of your horse. Life isn't Tetris on NES. I'm just going to keep at it even though I've already failed the goal of 1hr of code per day. Life happens.
+
+**Link(s):**
+* [FyVee](https://github.com/jgatka/FyVee)
+* [_The Not To Do List: 9 Habits to Stop Now_](https://tim.blog/2007/08/16/the-not-to-do-list-9-habits-to-stop-now/)
+
+<hr />
