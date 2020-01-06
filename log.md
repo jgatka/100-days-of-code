@@ -1,5 +1,20 @@
 # 100 Days Of Code - Log
 
+### Day 0: January 5th, 2020
+#### _Starting Over_
+
+**Today's Progress:** Over the past 5 days, I completed the following challenges on freecodecamp.org, as part of the Basic CSS unit of the Responsive Web Design certification.
+
+* Adjust the Padding of an Element
+* Use an id Attribute to Style an Element
+* Set the id of an Element	
+* Give a Background Color to a div Element
+
+**Thoughts:** Starting a new job, a death in the family, my PC completely dying on me, continual struggles in my personal life, learning vim (which I'm using to write this update, btw)...I could make all sorts of excuses on why I abandoned 100 days of code in 2019, but they'd be just that, excuses. Instead I'm just going to get right back on the horse and jump back into this. My new priority will be completing as much of freecodecamp.org as I can. I'll also continue working on python apps to serve my personal and work needs whenever such needs arise. I'd like to continue working on challenges on code wars when opportunities present themselves.
+
+**Link(s) to work:**
+* [My profile on freecodecamp.org](https://freecodecamp.org/jgatka)
+
 ### Day 0: December 31, 2019
 #### _Getting Ready_
 
