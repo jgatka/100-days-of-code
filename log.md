@@ -15,7 +15,7 @@
 **Link(s) to work:**
 * [My profile on freecodecamp.org](https://freecodecamp.org/jgatka)
 
-### Day 0: December 31, 2019
+### Day 0: December 31, 2018
 #### _Getting Ready_
 
 **Today's Progress:** Forked the original github repo for 100 days of code. I decided that for this, my first "round" of #100daysofcode I'm going to focus on C#/.NET development. I plan on completing some C# coursework and also doing codewars.com exercises in order to actually build things using what I've learned.
