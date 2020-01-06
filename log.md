@@ -15,6 +15,8 @@
 **Link(s) to work:**
 * [My profile on freecodecamp.org](https://freecodecamp.org/jgatka)
 
+<hr />
+
 ### Day 0: December 31, 2018
 #### _Getting Ready_
 
