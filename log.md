@@ -1,5 +1,15 @@
 # 100 Days Of Code - Log
 
+### Day 1: January 14th, 2020
+#### _Steady_
+
+**Today's Progress:** Today I spoke on the phone with a developer that I used to work with for about an hour. I told him my goals, what I want to learn,what kind of projects I want to build once I'm proficient enough. Over the past 9 days I've written bash scripts at work to help me query information I needed. Tonight after my phone call I completed 2 more CSS exercises. I'm now 50% complete with the CSS portion of the freecodecamp curriculum. I learned how to use clockwise notation to adjust all four sides of an object (top, right, bottom, left).
+
+**Thoughts** I did not know that you could use clockwise notation to adjust all four sides of an object in a single line. As painful as it is to start this journey at the beginning (I studied HTML/CSS in the myspace.com era...yeah...I'm that old), I'm glad that I'm doing it this way. I'm picking up bits and pieces of stuff that I missed along the way. It's the slow and steady way but I'm hoping it's the way that wins the race.
+
+**Link(s) to work:**
+* [My profile on freecodecamp.org](https://freecodecamp.org/jgatka)
+
 ### Day 0: January 5th, 2020
 #### _Starting Over_
 
