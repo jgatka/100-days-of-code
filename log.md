@@ -1,5 +1,24 @@
 # 100 Days Of Code - Log
 
+###Days 2-7: January 15th-20th, 2020
+#### _Grab Bag_
+
+**Today's Progress** I made it through 10 lessons in freecodecamp today. I'm now 70% done with the CSS curriculum. I've started thinking about my portfolio site and I'm stoked to learn more and eventually create a sort of "capstone" project to put all that I've learned to use.
+
+**Thoughts** I was originally going to admit defeat already, since I didn't do enough logging over the past couple of days. But I have to learn to give myself more credit. What _is_ important is that I _did_ write code each day, even if it was outside of the freecodecamp curriculum I've been emphasizing. Here are some of the things I studied over the past few days:
+
+* Emacs commands in bash
+* Using intruder/payloads in Burp Suite to automate attempted attacks
+* More vim practice
+* Which styles will take precedence when simultaneously using CSS, id attributes, inline formatting and the !important tag 
+
+The lesson about precedence is another example of something that I never learned when teaching myself to code outside of a structured curriculum. I just styled text and hoped for the best. Trial and error were my ways of knowing which takes precedence. I'm happy that I finally know so many ways to style attributes using HTML/CSS, and I'm really thankful for freecodecamp.org!
+
+**Link(s) to work:**
+* [My profile on freecodecamp.org](https://freecodecamp.org/jgatka)
+
+<hr />
+
 ### Day 1: January 14th, 2020
 #### _Steady_
 
