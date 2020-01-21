@@ -1,6 +1,6 @@
 # 100 Days Of Code - Log
 
-###Days 2-7: January 15th-20th, 2020
+### Days 2-7: January 15th-20th, 2020
 #### _Grab Bag_
 
 **Today's Progress** I made it through 10 lessons in freecodecamp today. I'm now 70% done with the CSS curriculum. I've started thinking about my portfolio site and I'm stoked to learn more and eventually create a sort of "capstone" project to put all that I've learned to use.
