@@ -3,20 +3,21 @@
 ### Days 8: January 21, 2020
 #### _ROYGBIV_
 
-**Today's Progress** I finished the command line editing chapter in my Bash book. I also learned how to use the replace, change, and put commands in vim. I learned how to use hex codes to style web pages with specific colors. I learned how to use hex codes to style page with mixed colors (R,G,B), and I learned how to style pages with colors using abbreviated hex codes. I only have 10 exercises left in the Basic CSS chapter of the Responsive Web Design Certification course.
+**Today's Progress:** I finished the command line editing chapter in my Bash book. I also learned how to use the replace, change, and put commands in vim. I learned how to use hex codes to style web pages with specific colors. I learned how to use hex codes to style page with mixed colors (R,G,B), and I learned how to style pages with colors using abbreviated hex codes. I only have 10 exercises left in the Basic CSS chapter of the Responsive Web Design Certification course.
 
-**Thoughts** When I first started using HTML/CSS back in the MySpace days I used hex codes. I would just look them up (probably yahoo search back in those days) and add them to my page. Now I know that the codes use two hexadecimal characters each for Red, Green, and Blue. This revelation made me harken back to elementary school and learning that TVs (and later CRT monitors) used RGB to display colors. I also had no idea that you could abbreviate the hex codes from 6 characters down to three. Still, I plan on actually writing the color out wherever possible, do keep my code readable. I'm continuing to come up with cool ideas for the projects later in the course where I'll build my own pages. Stoked.
+**Thoughts:** When I first started using HTML/CSS back in the MySpace days I used hex codes. I would just look them up (probably yahoo search back in those days) and add them to my page. Now I know that the codes use two hexadecimal characters each for Red, Green, and Blue. This revelation made me harken back to elementary school and learning that TVs (and later CRT monitors) used RGB to display colors. I also had no idea that you could abbreviate the hex codes from 6 characters down to three. Still, I plan on actually writing the color out wherever possible, do keep my code readable. I'm continuing to come up with cool ideas for the projects later in the course where I'll build my own pages. Stoked.
 
 **Link(s) to work:**
 * [My profile on freecodecamp.org](https://freecodecamp.org/jgatka)
 
 <hr />
+
 ### Days 2-7: January 15th-20th, 2020
 #### _Grab Bag_
 
-**Today's Progress** I made it through 10 lessons in freecodecamp today. I'm now 70% done with the CSS curriculum. I've started thinking about my portfolio site and I'm stoked to learn more and eventually create a sort of "capstone" project to put all that I've learned to use.
+**Today's Progress:** I made it through 10 lessons in freecodecamp today. I'm now 70% done with the CSS curriculum. I've started thinking about my portfolio site and I'm stoked to learn more and eventually create a sort of "capstone" project to put all that I've learned to use.
 
-**Thoughts** I was originally going to admit defeat already, since I didn't do enough logging over the past couple of days. But I have to learn to give myself more credit. What _is_ important is that I _did_ write code each day, even if it was outside of the freecodecamp curriculum I've been emphasizing. Here are some of the things I studied over the past few days:
+**Thoughts:** I was originally going to admit defeat already, since I didn't do enough logging over the past couple of days. But I have to learn to give myself more credit. What _is_ important is that I _did_ write code each day, even if it was outside of the freecodecamp curriculum I've been emphasizing. Here are some of the things I studied over the past few days:
 
 * Emacs commands in bash
 * Using intruder/payloads in Burp Suite to automate attempted attacks
