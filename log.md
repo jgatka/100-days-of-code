@@ -1,6 +1,18 @@
 # 100 Days Of Code - Log
 
-### Days 8: January 21, 2020
+### Day 9: January 22nd, 2020
+#### _Httpserver & RGB Syntax_
+
+**Today's Progress:** As part of my responsibilities at work, I learned how to use the more advanced features of [advanced http server](https://github.com/zeroSteiner/AdvancedHTTPServer). I used it to serve up a sample page that I wrote as well as to serve up files for future endeavors. I completed 2 freecodecamp exercises and learned how to use rgb syntax to color an element as opposed to hex codes or plain English.
+
+**Thoughts:** Busy day at work, band practice, and I still managed to get in two exercises and update my log. Rad. Onward and upward.
+
+**Links to work:**
+* [My profile on freecodecamp.org](https://freecodecamp.org/jgatka)
+
+<hr />
+
+### Day 8: January 21st, 2020
 #### _ROYGBIV_
 
 **Today's Progress:** I finished the command line editing chapter in my Bash book. I also learned how to use the replace, change, and put commands in vim. I learned how to use hex codes to style web pages with specific colors. I learned how to use hex codes to style page with mixed colors (R,G,B), and I learned how to style pages with colors using abbreviated hex codes. I only have 10 exercises left in the Basic CSS chapter of the Responsive Web Design Certification course.
