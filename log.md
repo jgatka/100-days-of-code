@@ -7,7 +7,7 @@
 
 **Thoughts:** Busy day at work, band practice, and I still managed to get in two exercises and update my log. Rad. Onward and upward.
 
-**Links to work:**
+**Link(s) work:**
 * [My profile on freecodecamp.org](https://freecodecamp.org/jgatka)
 
 <hr />
