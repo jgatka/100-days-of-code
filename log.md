@@ -1,5 +1,17 @@
 # 100 Days Of Code - Log
 
+### Day 10: January 23rd, 2020
+#### _CSS Variables_
+
+**Today's Progress:** I completed 3 freecodecamp lessons on creating and using CSS variables to change several elements at once. I also learned how to create a fallback variable in case a browser limitation or other error causes the CSS variable to not display properly.
+
+**Thoughts**: I've now completed 91% of the CSS chapter and only have 4 lessons left. The next chapter deals with applied visual design. Stoked. I'm also getting pretty damn good with vim.
+
+**Link(s) to work:**
+* [My profile on freecodecamp.org](https://freecodecamp.org/jgatka)
+
+<hr />
+
 ### Day 9: January 22nd, 2020
 #### _Httpserver & RGB Syntax_
 
@@ -7,7 +19,7 @@
 
 **Thoughts:** Busy day at work, band practice, and I still managed to get in two exercises and update my log. Rad. Onward and upward.
 
-**Link(s) work:**
+**Link(s) to work:**
 * [My profile on freecodecamp.org](https://freecodecamp.org/jgatka)
 
 <hr />
