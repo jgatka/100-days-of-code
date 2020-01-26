@@ -1,5 +1,33 @@
 # 100 Days Of Code - Log
 
+### Days 11-13: January 24th-26th, 2020
+#### _Applied Visual Design_
+
+**Today's Progress:** I completed the chapter on CSS and moved into the next chapter; Applied Visual Design. I completed the final 4 exercises from the CSS chapter, which were:
+
+* Improve Compatibility with Browser Fallbacks
+* Inherit CSS Variables
+* Change a variable for a specific area
+* Use a media query to change a variable
+
+_...and from the Applied Visual Design chapter:_
+* Introduction to the Applied Visual Design Challenges
+* Create Visual Balance Using the text-align Property
+* Adjust the Width of an Element Using the width Property
+* Adjust the Height of an Element Using the height Property
+* Use the strong Tag to Make Text Bold
+* Use the u Tag to Underline Text
+* Use the em Tag to Italicize Text
+* Use the s Tag to Strikethrough Text
+* Create a Horizontal Line Using the hr Element
+
+**Thoughts:** I'm 15% through the chapter on Applied Visual Design already. I covered a lot of ground over the last 3 days and I'm still enjoying the consistency. I'm worried I'm going to forget some of the class/variable/inline selection from the CSS chapter, so I'm contemplating starting some of the projects early. I peeked ahead and there's a portfolio and memorial page that I could probably put together now and iterate/improve upon as the coursework continues. However, I want to make sure I stick with this, so I don't want to get _too_ far ahead of myself. A lot of the AVD exercises were review for me. I always used the "b" tag instead of "strong", and the "i" tag instead of "em", but I'm glad I got some practice learning the other way. The text align lessons were new information for me though.
+
+**Link(s) to work:**
+* [My profile on freecodecamp.org](https://freecodecamp.org/jgatka)
+
+<hr />
+
 ### Day 10: January 23rd, 2020
 #### _CSS Variables_
 
