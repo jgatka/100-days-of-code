@@ -1,5 +1,17 @@
 # 100 Days Of Code - Log
 
+### Day 14:January 27th, 2020
+#### _More AVD_
+
+**Today's Progress:** I continued working through _vimtutor_, and learned how to specify a line I'm on (CTRL+G), go to that line (<number> CTRL+G), go to the end of the file (G), and go back to the beginning of a file (gg). I also learned how to search for text using (/). In bash, I learned how to work with aliases, how to format my ~/.bashrc file. For freecodecamp, I learned how to style text using the background-color: rgba(x,y,z,0) format, which includes control for opacity. I also learned how to resize headers using the font-size property, so that the headers are larger than the paragraph text.
+
+**Thoughts:** I jumped around quite a bit today but I'm really happy that I'm continuing to diversity my skill set. The vim and bash knowledge come in handy and I'm glad that I'm leveling those skills up to scale along with my coding ability.
+
+**Link(s) to work:**
+* [My profile on freecodecamp.org](https://freecodecamp.org/jgatka)
+
+<hr />
+
 ### Days 11-13: January 24th-26th, 2020
 #### _Applied Visual Design_
 
