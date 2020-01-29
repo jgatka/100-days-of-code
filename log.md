@@ -1,6 +1,18 @@
 # 100 Days Of Code - Log
 
 ### Day 14:January 27th, 2020
+#### _Box-shadows, Opacity, and text-transform_
+
+**Today's Progress: I completed three exercises in the freecodecamp chapter on applied visual design. I learned how to code box shadows, set opacity, and use the text-transform property to hardcode the case of an element.**
+
+**Thoughts: Adding a box shadow to a card element made it look much more appealing. I can _see_ the quallity of my code improving. The context for box shadows is actually kind of difficult to digest. I'll need to practice with this one a lot more. The elements (offset-x, offset-y, blur-radius, spread-radius, and color) must appear in a specific order, and 2 of them (blur-radius, spread-radius) are optional. I assumed opacity would go from 0 to 255, but actually the range is 1 (solid) to 0 (transparent). As an InfoSec guy, I can see nefarious uses for setting the opacity of elements that I seek to hide from the user to 0. The text transform property will allow me to set the case of all words in an element rather than editing the words individually. Handy for headlines, titles, headings, etc.**
+
+**Link(s) to work:**
+* [My profile on freecodecamp.org](https://freecodecamp.org/jgatka)
+
+<hr />
+
+### Day 14:January 27th, 2020
 #### _More AVD_
 
 **Today's Progress:** I continued working through _vimtutor_, and learned how to specify a line I'm on (CTRL+G), go to that line (<number> CTRL+G), go to the end of the file (G), and go back to the beginning of a file (gg). I also learned how to search for text using (/). In bash, I learned how to work with aliases, how to format my ~/.bashrc file. For freecodecamp, I learned how to style text using the background-color: rgba(x,y,z,0) format, which includes control for opacity. I also learned how to resize headers using the font-size property, so that the headers are larger than the paragraph text.
