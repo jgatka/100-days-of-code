@@ -12,7 +12,7 @@
 
 <hr />
 
-### Day 14:January 27th, 2020
+### Day 14: January 27th, 2020
 #### _More AVD_
 
 **Today's Progress:** I continued working through _vimtutor_, and learned how to specify a line I'm on (CTRL+G), go to that line (<number> CTRL+G), go to the end of the file (G), and go back to the beginning of a file (gg). I also learned how to search for text using (/). In bash, I learned how to work with aliases, how to format my ~/.bashrc file. For freecodecamp, I learned how to style text using the background-color: rgba(x,y,z,0) format, which includes control for opacity. I also learned how to resize headers using the font-size property, so that the headers are larger than the paragraph text.
