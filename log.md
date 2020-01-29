@@ -1,6 +1,6 @@
 # 100 Days Of Code - Log
 
-### Day 14: January 28th, 2020
+### Day 15: January 28th, 2020
 #### _Box-shadows, Opacity, and text-transform_
 
 **Today's Progress:** I completed three exercises in the freecodecamp chapter on applied visual design. I learned how to code box shadows, set opacity, and use the text-transform property to hardcode the case of an element.**
