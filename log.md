@@ -7,10 +7,10 @@
 
 **Thoughts:** I had a busy day but managed to get through three exercises. I'm now 33% through the chapter on AVD. I'm sure that these properties can be applied to more tags than just the headings and paragraph tags. I'll have to test this in later chapters. While I've used font-size before, the font-weight and line-height properties are brand new to me. I've said it before and I'll say it again, I'm glad I followed my instincts and decided to start from the beginning. Many gaps that I didn't know existed are being filled in. Also...this week I put together a new PC, so I'm actually updating the log in Notepad++ on my PC instead of in vim on my Raspberry Pi. I use vim enough at my job that I'm not worried about losing that skill set. It's also worth noting that I generated rsa keys and uploaded them to github so that I could update the log from this PC as well. Does using ssh-keygen in powershell count as a #100daysofcode exercise? I think maybe it should (:
 
-<hr />
-
 **Link(s) to work:**
 * [My profile on freecodecamp.org](https://freecodecamp.org/jgatka)
+
+<hr />
 
 ### Day 15: January 28th, 2020
 #### _Box-shadows, Opacity, and Text-Transform_
