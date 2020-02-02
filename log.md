@@ -1,5 +1,41 @@
 # 100 Days Of Code - Log
 
+### Day 19: February 1st, 2020
+#### Z-Index and Margin: Auto
+
+**Today's Progress:** I completed two exercises in the free codecamp chapter on applied visual design. Today's lessons covered the z-index and margin: auto properties. z-index allows a developer to choose which element is on top when two elements on a page overlap. margin: auto allows a developer to center elements automatically.
+
+**Thoughts:** Yesterday it was tough to power through because I was tired. Today it was tough to power through because it feels like I'm coming down with a cold. Patting myself on the back again today. On to month two! 👍 
+
+**Link(s) to work:**
+* [My profile on freecodecamp.org](https://freecodecamp.org/jgatka)
+
+<hr />
+
+### Day 18: January 31st, 2020
+#### Absolute and Fixed Positioning
+
+**Today's Progress:** Today I completed two exercises in the freecodecamp chapter on applied visual design. Today's lessons covered Absolute and fixed positioning.
+
+**Thoughts:** It's been tough trying to get ready for my band's first show on the 8th, whilst simultaneously remaining committed to 100daysofCode. Patting myself on the back for continuing even when there's days where I need to push myself a little bit harder than usual.
+
+**Link(s) to work:**
+* [My profile on freecodecamp.org](https://freecodecamp.org/jgatka)
+
+<hr />
+
+### Day 17: January 30th, 2020
+#### Relative Positioning & Hover States
+
+**Today's Progress:** I completed three exercises in the freecodecamp.org chapter on applied visual design. Today's lessons covered relative positioning and adjusting the hover state of an anchor tag. Relative positioning allows for changing the location of an element relative to the top, bottom, left or right sides of the page. Changing the hover state allows for the color of the link to change when a user hovers over it.
+
+**Thoughts:** I've changed hover states before, but relative positioning is a new concept for me. 
+
+**Link(s) to work:**
+* [My profile on freecodecamp.org](https://freecodecamp.org/jgatka)
+
+<hr />
+
 ### Day 16: January 29th, 2020
 #### Size, Height, and Weight
 
