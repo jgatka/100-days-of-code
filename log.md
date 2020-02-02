@@ -1,9 +1,21 @@
 # 100 Days Of Code - Log
+#### Day 20: February 2nd, 2020
+### Float & Complementary Colors
+
+
+**Today's Progress:** I completed two more exercises in the freecodecamp chapter on applied visual design. Today's lessons covered the "float" property as well as using a color wheel (and hex codes) to apply complementary colors. Float allows a developer to (at least visually) assign elements to a part of the page that makes them look like they are arranged columns. For instance, assigning one element with the "float: left;" property and the next element with the "float: right" property would make the page look like it had two columns. The exercise had me set one element's background-color property to blue (#0000FF) and a second element's background-color property to yellow (#FFFF00) to show how the two are opposites and thus complement one another.
+
+**Thoughts:** As someone that is colorblind (albeit mildly), I appreciated that the freecodecamp exercises introduced early the idea that a developer should not rely solely on the emphasis provided by complementary colors to style a page.
+
+**Link(s) to work:**
+* [My profile on freecodecamp.org](https://freecodecamp.org/jgatka)
+
+<hr />
 
 ### Day 19: February 1st, 2020
 #### Z-Index and Margin: Auto
 
-**Today's Progress:** I completed two exercises in the free codecamp chapter on applied visual design. Today's lessons covered the z-index and margin: auto properties. z-index allows a developer to choose which element is on top when two elements on a page overlap. margin: auto allows a developer to center elements automatically.
+**Today's Progress:** I completed two exercises in the freecodecamp chapter on applied visual design. Today's lessons covered the z-index and margin: auto properties. z-index allows a developer to choose which element is on top when two elements on a page overlap. margin: auto allows a developer to center elements automatically.
 
 **Thoughts:** Yesterday it was tough to power through because I was tired. Today it was tough to power through because it feels like I'm coming down with a cold. Patting myself on the back again today. On to month two! 👍 
 
