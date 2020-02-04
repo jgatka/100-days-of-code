@@ -1,6 +1,18 @@
 # 100 Days Of Code - Log
+#### Day 21: February 3rd, 2020
+### _Tertiary Colors_
+
+**Today's Progress:** Only one exercise tonight. Tertiary colors, which are created by combining a primary color with one of its complementary color. I was able to color elements Orange, Cyan, and Raspberry in this way.
+
+**Thoughts:** Days like today are the ones where it's hard to push through. I've been taking DayQuil to deal with this headache, stuffy nose, and sore throat. I'm about to take NyQuil before bed. No pain no gain. Soon (this weekend I hope) I'm going to reintroduce Python into my coding curriculum, by picking up where I left off in _Automate_ _The_ _Boring_ _Stuff_ _with_ _Python_ and then by completing a codewars exercise as well.
+
+**Link(s) to work:**
+* [My profile on freecodecamp.org](https://freecodecamp.org/jgatka)
+
+<hr />
+
 #### Day 20: February 2nd, 2020
-### Float & Complementary Colors
+### _Float & Complementary Colors_
 
 
 **Today's Progress:** I completed two more exercises in the freecodecamp chapter on applied visual design. Today's lessons covered the "float" property as well as using a color wheel (and hex codes) to apply complementary colors. Float allows a developer to (at least visually) assign elements to a part of the page that makes them look like they are arranged columns. For instance, assigning one element with the "float: left;" property and the next element with the "float: right" property would make the page look like it had two columns. The exercise had me set one element's background-color property to blue (#0000FF) and a second element's background-color property to yellow (#FFFF00) to show how the two are opposites and thus complement one another.
@@ -13,7 +25,7 @@
 <hr />
 
 ### Day 19: February 1st, 2020
-#### Z-Index and Margin: Auto
+#### _Z-Index and Margin: Auto_
 
 **Today's Progress:** I completed two exercises in the freecodecamp chapter on applied visual design. Today's lessons covered the z-index and margin: auto properties. z-index allows a developer to choose which element is on top when two elements on a page overlap. margin: auto allows a developer to center elements automatically.
 
@@ -25,7 +37,7 @@
 <hr />
 
 ### Day 18: January 31st, 2020
-#### Absolute and Fixed Positioning
+#### _Absolute and Fixed Positioning_
 
 **Today's Progress:** Today I completed two exercises in the freecodecamp chapter on applied visual design. Today's lessons covered Absolute and fixed positioning.
 
@@ -37,7 +49,7 @@
 <hr />
 
 ### Day 17: January 30th, 2020
-#### Relative Positioning & Hover States
+#### _Relative Positioning & Hover States_
 
 **Today's Progress:** I completed three exercises in the freecodecamp.org chapter on applied visual design. Today's lessons covered relative positioning and adjusting the hover state of an anchor tag. Relative positioning allows for changing the location of an element relative to the top, bottom, left or right sides of the page. Changing the hover state allows for the color of the link to change when a user hovers over it.
 
@@ -49,7 +61,7 @@
 <hr />
 
 ### Day 16: January 29th, 2020
-#### Size, Height, and Weight
+#### _Size, Height, and Weight_
 
 **Today's Progress:** I completed three exercises in the freecodecamp.org chapter on applied visual design. I learned how to style elements using the font-size, font-weight, and line-height properties. These properties can be assigned to headings and paragraphs tags.
 
