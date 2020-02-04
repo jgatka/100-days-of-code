@@ -1,6 +1,6 @@
 # 100 Days Of Code - Log
-#### Day 21: February 3rd, 2020
-### _Tertiary Colors_
+### Day 21: February 3rd, 2020
+#### _Tertiary Colors_
 
 **Today's Progress:** Only one exercise tonight. Tertiary colors, which are created by combining a primary color with one of its complementary color. I was able to color elements Orange, Cyan, and Raspberry in this way.
 
@@ -11,8 +11,8 @@
 
 <hr />
 
-#### Day 20: February 2nd, 2020
-### _Float & Complementary Colors_
+### Day 20: February 2nd, 2020
+#### _Float & Complementary Colors_
 
 
 **Today's Progress:** I completed two more exercises in the freecodecamp chapter on applied visual design. Today's lessons covered the "float" property as well as using a color wheel (and hex codes) to apply complementary colors. Float allows a developer to (at least visually) assign elements to a part of the page that makes them look like they are arranged columns. For instance, assigning one element with the "float: left;" property and the next element with the "float: right" property would make the page look like it had two columns. The exercise had me set one element's background-color property to blue (#0000FF) and a second element's background-color property to yellow (#FFFF00) to show how the two are opposites and thus complement one another.
