@@ -1,4 +1,17 @@
 # 100 Days Of Code - Log
+
+### Day 22-23: February 4th & 5th, 2020
+#### _Bash Scripting and More Fun With the Color Wheel_
+
+**Today's Progress:** I'm still suffereing from the effects of this cold. I spent the 4th revisiting the fundamentals of bash scripting. I learned how to designate (what I've always referred to because of my Python background as) argument variables (argv's) using the dollar sign in bash scripts - i.e. $1 $2, etc. Today (02/05) I completed three more exercises on freecodecamp. I learned a more subtle way to use complementary colors so that they don't overwhelm the user. I also learned how to color elements using <strong>hsl(x,y,z)</strong> (hue, saturation, lightness).
+
+**Thoughts:** It was interesting learning how to designate argument variables in Bash in a fashion I'm used to doing in Python. As for the lessons on applied visual design, I now know several different ways to set the color property on an element in a page. It is nice that there are so many ways to accomplish this task in HTML/CSS. My gut feeling is still that simpler is better though. I will most likely continue doing what I've always done, going to a site with a color wheel, pick a color that appeals to me, copy its hex code, and add it to my page. However, using opposite/complementary colors is easier if you know the value of one of the colors in hsl(x,y,z) style notation.
+
+**Link(s) to work:**
+* [My profile on freecodecamp.org](https://freecodecamp.org/jgatka)
+
+<hr />
+
 ### Day 21: February 3rd, 2020
 #### _Tertiary Colors_
 
