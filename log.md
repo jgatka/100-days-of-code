@@ -1,5 +1,17 @@
 # 100 Days Of Code - Log
 
+### Day 24: February 6th, 2020
+#### _Linear Gradients and Background URLs_
+
+**Today's Progress:** Today I completed three more exercises in the applied visual design section of freecodecamp.org. I learned how to code colors as a linear gradient using the syntax <em>background: linear-gradient(gradient_direction, color 1, color 2, color 3, ...);</em>. I also learned that by setting the transition from one color to the next to happen instantly, a developer can give the appearance of stripes. I also "learned" something that I already knew - that you can set the background property of an element to a url using the syntax <em>background: url("linkgoeshere");</em>
+
+**Thoughts:** Seeing the way that the colors transitioned in the gradients, and creating a div element that had the appearance of a yellow and black construction sign was really, really cool. For a dude that has primarily written code that displays and styles text, or console applications that also take and return text...it was a new experience watching my code create shapes and colors. I'm really looking forward to the projects at the end of this section of the course.
+
+**Link(s) to work:**
+* [My profile on freecodecamp.org](https://freecodecamp.org/jgatka)
+
+<hr />
+
 ### Day 22-23: February 4th & 5th, 2020
 #### _Bash Scripting and More Fun With the Color Wheel_
 
