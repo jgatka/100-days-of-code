@@ -1,5 +1,19 @@
 # 100 Days Of Code - Log
 
+###Day 25: Feburary 8th, 2020
+#### _Return To Codewars_
+
+**Today's Progress:** I put my money where my mouth is and returned to coding in Python. I completed a codewars kata called "Who Likes it?". The challenge was to create a function that takes a list of names, and return a string message similar to what you would see on Facebook after sharing something. For example "No one likes this" or "Alice, Bob, and 24 others like this". I also created 2 exercises in freecodecamp, and learned about using the transform: scale(x); property to resize elements on a page. 
+
+**Thoughts:** I didn't have a chance to code outside of work yesterday, so I tried to make up for it today by doing a codewars kata AND some freecodecamp work. It felt good to write some Python and solve a codewars kata for the first time in a long time. Again, part of the struggle of completing #100daysofCode, for me anyways, is understandig that <em>perfect is the enemy of done</em>. Rather than quitting because I didn't maintain a perfect 100 day streak, I'm giong to just keep going, because the goal is to become a better developer, not a perfect one. 🙌
+
+**Link(s) to work:**
+* ["Who Likes It?" - Codewars.com](https://www.codewars.com/kata/5266876b8f4bf2da9b000362/train/python)
+* [My Completed Solutions - Codewars.com](https://www.codewars.com/users/jgatka/completed_solutions)
+* [My profile on freecodecamp.org](https://freecodecamp.org/jgatka)
+
+<hr />
+
 ### Day 24: February 6th, 2020
 #### _Linear Gradients and Background URLs_
 
