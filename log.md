@@ -1,6 +1,6 @@
 # 100 Days Of Code - Log
 
-###Day 25: Feburary 8th, 2020
+### Day 25: Feburary 8th, 2020
 #### _Return To Codewars_
 
 **Today's Progress:** I put my money where my mouth is and returned to coding in Python. I completed a codewars kata called "Who Likes it?". The challenge was to create a function that takes a list of names, and return a string message similar to what you would see on Facebook after sharing something. For example "No one likes this" or "Alice, Bob, and 24 others like this". I also created 2 exercises in freecodecamp, and learned about using the transform: scale(x); property to resize elements on a page. 
@@ -13,7 +13,7 @@
 * [My Completed Solutions - Codewars.com](https://www.codewars.com/users/jgatka/completed_solutions)
 
 <em>My solution to the "Who Likes It?" codewars.com kata:</em>
-```
+```python
 def likes(names):
     #your code here
     num_Likes = len(names)
