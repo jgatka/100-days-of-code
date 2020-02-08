@@ -5,12 +5,30 @@
 
 **Today's Progress:** I put my money where my mouth is and returned to coding in Python. I completed a codewars kata called "Who Likes it?". The challenge was to create a function that takes a list of names, and return a string message similar to what you would see on Facebook after sharing something. For example "No one likes this" or "Alice, Bob, and 24 others like this". I also created 2 exercises in freecodecamp, and learned about using the transform: scale(x); property to resize elements on a page. 
 
-**Thoughts:** I didn't have a chance to code outside of work yesterday, so I tried to make up for it today by doing a codewars kata AND some freecodecamp work. It felt good to write some Python and solve a codewars kata for the first time in a long time. Again, part of the struggle of completing #100daysofCode, for me anyways, is understandig that <em>perfect is the enemy of done</em>. Rather than quitting because I didn't maintain a perfect 100 day streak, I'm giong to just keep going, because the goal is to become a better developer, not a perfect one. 🙌
+**Thoughts:** I didn't have a chance to code outside of work yesterday, so I tried to make up for it today by doing a codewars kata AND some freecodecamp work. It felt good to write some Python and solve a codewars kata for the first time in a long time. When I saw how others solved the kata, I realized that I could definitely refactor my code and make it shorter. I'm tempted to be overly critical of myself, but I'm going to resist that urge, because this is all about getting better. I can refactor it in the future, after I've learned more, but the important thing is that it worked, it passed ALL unit tests, and it solved the problem. Again, part of the struggle of completing #100daysofCode, for me anyways, is understandig that <em>perfect is the enemy of done</em>. Rather than quitting because I didn't maintain a perfect 100 day streak, I'm going to just keep going, because the goal is to become a better developer, not a perfect one. 🙌
 
 **Link(s) to work:**
+* [My profile on freecodecamp.org](https://freecodecamp.org/jgatka)
 * ["Who Likes It?" - Codewars.com](https://www.codewars.com/kata/5266876b8f4bf2da9b000362/train/python)
 * [My Completed Solutions - Codewars.com](https://www.codewars.com/users/jgatka/completed_solutions)
-* [My profile on freecodecamp.org](https://freecodecamp.org/jgatka)
+
+<em>My solution to the "Who Likes It?" codewars.com kata:</em>
+```
+def likes(names):
+    #your code here
+    num_Likes = len(names)
+    if num_Likes < 1:
+        return('no one likes this')
+    elif num_Likes == 1:
+        return(names[0] + ' likes this')
+    elif num_Likes == 2:
+        return(names[0] + ' and ' + names[1] + ' like this')
+    elif num_Likes == 3:
+        return(names[0] + ', ' + names[1] + ' and ' + names[2] + ' like this')
+    else:
+        remaining_Likes = (num_Likes - 2)
+        return(names[0] + ', ' + names[1] + ' and ' + str(remaining_Likes) + ' others like this')
+```
 
 <hr />
 
