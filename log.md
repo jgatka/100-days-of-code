@@ -1,5 +1,33 @@
 # 100 Days Of Code - Log
 
+### Day 26: Febrary 9th, 2020
+#### _Lists of Lists, SkewX, SkewY_
+
+**Today's Progress**: I completed another Python Codewars exercise. This one called for me to return a result based on an evaluation of 2 integers that resided inside of a list of a list. I'm happy that I was able to code a solution as quickly as I did. I also completed two more exercises in the freecodecamp applied visual design unit. I learned how to skew an element along its X or Y axis using the <em>Transform: skewX(xdeg);</em> and <em>Transform: skewY(ydeg);</em> properties.
+
+**Thoughts**: I've completed 37 of the 52 exercises of the applied visual design unit. The next unit will cover applied accessibilty. Looking forward to it. I'm also looking forward to the increase in difficulty in codewars exercises.
+
+**Link(s) to work:**
+* [My profile on freecodecamp.org](https://freecodecamp.org/jgatka)
+* ["Categorize New Member" - Codewars.com](https://www.codewars.com/kata/5502c9e7b3216ec63c0001aa)
+* [My Completed Solutions - Codewars.com](https://www.codewars.com/users/jgatka/completed_solutions)
+
+<em>My solution to teh "Categorize New Member" codewars.com kata:</em>
+
+```
+def openOrSenior(data):
+    # New list which will populate with member ranks
+    member_Rank = []
+    for list in data:
+        if ((list[0] >= 55) and (list[1] > 7)):
+            member_Rank.append("Senior")
+        else:
+            member_Rank.append("Open")
+    return member_Rank
+```
+
+<hr />
+
 ### Day 25: Feburary 8th, 2020
 #### _Return To Codewars_
 
