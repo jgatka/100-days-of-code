@@ -19,7 +19,7 @@ def openOrSenior(data):
     # New list which will populate with member ranks
     member_Rank = []
     for list in data:
-		# Age must be 55 or older, rank must be higher than 7
+	# Age must be 55 or older, rank must be higher than 7
         if ((list[0] >= 55) and (list[1] > 7)):
             member_Rank.append("Senior")
         else:
