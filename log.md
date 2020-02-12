@@ -1,5 +1,25 @@
 # 100 Days Of Code - Log
 
+### Day 28: February 11th, 2020
+#### 
+
+**Today's Progress:** Today I attempted a codewars kata and couldn't quite figure it out. It's late and my looping logic has a bug in it somewhere. I'll return to it tomorrow. I also completed two exercises in the freecodecamp chapter on applied visual design. The chapter is now 75% complete. These exercises had me create a crescent moon and a heart using CSS 
+
+**Thoughts:** I thought it was kind of cool to learn how to create a heart just in time for valentines day. the ::before and ::after pseudo-elements are new to me. I'll need some practice manipulating these in such a way that it creates familiar shapes. Looking forward to practicing with these during the final projects.
+
+**Link(s) to work:**
+* [My profile on freecodecamp.org](https://freecodecamp.org/jgatka)
+
+### Day 27: February 10th, 2020
+#### _Sneaky sneaky_
+
+**Today's Progress:** Today I created a phishing email to be sent out to a nonzero number of employees using HTML and CSS as part of my responsibilities at work. In the immortal words of Forrest Gump: "...And that's all I have to say about that."
+
+**Thoughts:** I love InfoSec, but there are times, like right now, where I wish I could be more verbose about the work that I do.
+
+**Link(s) to work:**
+* <strike>Redacted</strike>
+
 ### Day 26: Febrary 9th, 2020
 #### _Lists of Lists, SkewX, SkewY_
 
