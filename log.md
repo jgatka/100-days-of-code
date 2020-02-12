@@ -1,7 +1,7 @@
 # 100 Days Of Code - Log
 
 ### Day 28: February 11th, 2020
-#### _Lucky charms_
+#### _Lucky Charms_
 
 **Today's Progress:** Today I attempted a codewars kata and couldn't quite figure it out. It's late and my looping logic has a bug in it somewhere. I'll return to it tomorrow. I also completed two exercises in the freecodecamp chapter on applied visual design. The chapter is now 75% complete. These exercises had me create a crescent moon and a heart using CSS 
 
