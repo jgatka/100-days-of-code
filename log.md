@@ -20,7 +20,7 @@ def is_square(n):
     if n < 0:
         return False 
     
-    # Count backwords from n towards 0
+    # Count backwards from n towards 0
     num_before_n = n
     while ((num_before_n <= n) and (num_before_n >= 0)):
         if ((num_before_n * num_before_n) == n):
