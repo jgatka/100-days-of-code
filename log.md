@@ -1,5 +1,40 @@
 # 100 Days Of Code - Log
 
+### Day 29-30: February 11th & 12th, 2020
+#### _Stumped_
+
+**Today's Progress:** Yesterday I was feeling pretty exhausted after a long road trip. So I opted to break out some old reading for a bit in bed, and revisited 24 deadly sins of software security. I'm counting it, because it's better than doing nothing. Today I completed one freecodecamp exercise, _Learn How the CSS @keyframes and animation Properties Work_. I animated a rectangular graphic in such a way that it morphed between colors 3 times over the course of 4 seconds. I also made an attempt at completed the codewars.com kata "You're a Square" - but was unable to create a solution that passed (yet).
+
+**Thoughts:** I actually think it's rad that my codewars.com solution to the kata is incomplete. My solution passed the few unit tests that are provided, but somewhere in the larger battery of use cases, one such use case causes the code to time out. I have a feeling I know why. Somewhere in the numbers that are tested is no doubt a huge number (bigint?)...and the amount of time that it takes for my code to decrement across all numbers between that number and zero is probably too long, causing the timeout. I'm going to have to revisit my logic and try to find a more efficient way to narrow down potential solutions. I'm happy that I was able to complete an exercise in the freecodecamp curriculum though, and get my code dopamine hit for the night.
+
+**Link(s) to work:**
+* [My profile on freecodecamp.org](https://freecodecamp.org/jgatka)
+* ["You're a Square!" - Codewars.com](https://www.codewars.com/kata/54c27a33fb7da0db0100040e/train/python)
+* [My Completed Solutions - Codewars.com](https://www.codewars.com/users/jgatka/completed_solutions)
+
+<em>My (incomplete) solution to the codewars.com kata "You're a Square!":</em>
+
+```python
+def is_square(n):    
+    
+    if n < 0:
+        return False 
+    
+    # Count backwords from n towards 0
+    num_before_n = n
+    while ((num_before_n <= n) and (num_before_n >= 0)):
+        if ((num_before_n * num_before_n) == n):
+            return True
+        else:
+            num_before_n -= 1
+            continue
+    
+    # If none of the integers before n, that are greater than zero, times themselves == n, n is not a square
+    return False
+```
+
+<hr />
+
 ### Day 28: February 11th, 2020
 #### _Lucky Charms_
 
@@ -38,7 +73,7 @@
 
 <em>My solution to the "Categorize New Member" codewars.com kata:</em>
 
-```
+```python
 def openOrSenior(data):
     # New list which will populate with member ranks
     member_Rank = []
