@@ -7,6 +7,7 @@
 
 **Thoughts:** I started my code from scratch after reading [this](https://www.quora.com/What-is-the-quickest-way-to-determine-if-a-number-is-a-perfect-square?share=1) quora thread. But it doesn't appear that the theory covers all perfect squares. At the very least, I count this as forward progress because it isn't timing out anymore like it did at last attempt.
 
+**Link(s) to work:**
 * ["You're a Square!" - Codewars.com](https://www.codewars.com/kata/54c27a33fb7da0db0100040e/train/python)
 * [My Completed Solutions - Codewars.com](https://www.codewars.com/users/jgatka/completed_solutions)
 
