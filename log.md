@@ -1,6 +1,128 @@
 # 100 Days Of Code - Log
 
-### Day 29-30: February 11th & 12th, 2020
+### Day 30-21: February 14th & 15th, 2020
+#### _Still Stumped_
+
+**Today's Progress:** I spent a few more hours refactoring my code for the _You're_ _a_ _Square_ exercise on Codewars. My code is still not passing all unit tests. Some of the higher integer numbers are still returning incorrectly. I'll have to continue on this one.
+
+**Thoughts:** I started my code from scratch after reading [this](https://www.quora.com/What-is-the-quickest-way-to-determine-if-a-number-is-a-perfect-square?share=1) quora thread. But it doesn't appear that the theory covers all perfect squares. At the very least, I count this as forward progress because it isn't timing out anymore like it did at last attempt.
+
+* ["You're a Square!" - Codewars.com](https://www.codewars.com/kata/54c27a33fb7da0db0100040e/train/python)
+* [My Completed Solutions - Codewars.com](https://www.codewars.com/users/jgatka/completed_solutions)
+
+<em>My (still incomplete) solution to the codwars.com kata "You're a Square!":</em>
+
+```python
+def is_square(n):    
+    
+    '''
+    # An efficient way to determine whether or not a number is a perfect square
+    # is to evaluate whether or not it satisfies both of the following 
+    # conditions: 
+    # 1) A perfect square will always end in one of the following integers: 
+    # ( 0, 1, 4, 5, 6, 9). A number that does not end in one of these numbers 
+    # is not a perfect square. Numbers that satisfy this requirement can be 
+    # tested for the second requirement:
+    # 2) A Perfect Square always have digital summation of one of these 
+    # numbers: ( 1, 4, 7, 9), if it doesn’t it’s not a Perfect Square. Note
+    # that "digital summation" means adding the digits up and repeating the
+    # operation until there is only one digit. That digit must be either 1, 4,
+    # 7 or 9. Otherwise, the number is not a perfect suqare.
+    # 
+    '''
+    
+    # Zero is a perfect square
+    if n == 0:
+        return True
+    
+    # Negative numbers cannot be perfect squares
+    if n < 0:
+        return False 
+    
+    # Exception handling/input validation test to verify that n is an integer
+    try:
+        val = int(n)
+    except ValueError:
+        print("The number provided must be an integer")
+    
+    # Create a list to store each of the digits in
+    digits_of_n = []
+    
+    # first test numbers
+    first_test_numbers = [0,1,4,5,6,9]
+    
+    # second test numbers
+    second_test_numbers = [1,4,7,9]
+    
+    # second test single digit fail numbers
+    second_test_fails = [0,2,3,5,6,8]
+    
+    # split n into digits and add them to the list
+    digits_of_n = [int(i) for i in str(n)]
+    
+    # digital summation needs to start at a number > 1 in order for the loop to
+    # start. The number will be reset inside of the loop.
+    digital_summation = 2
+    
+    # Generic error message
+    error_message = "Error! Could not determine if the number is a perfect square."
+    
+    # First test...does n end in 0, 1, 4, 5, 6, or 9?
+    if digits_of_n[-1] in first_test_numbers:
+        # Perform second test
+        
+        # Add all of the digits up
+        digital_summation = sum(digits_of_n)
+        
+        # If the sum is in the list of second test numbers, return true
+        if (digital_summation in second_test_numbers):
+            return True
+        
+        # Otherwise, one of two things has happened, 1) The number is either in (2,3,5,6,8), or 2) The number is > 9, and digital summation will need to take place again.
+        else:
+            # if the digital summation is either 0, 2, 3, 5, 6, or 8 - return False
+            if (digital_summation in second_test_fails):
+                return False
+            
+            # integer is double digits...we'll need to repeat digital summation until it isn't.
+            elif digital_summation > 9:
+                while digital_summation > 9:
+                    # split up the digits again
+                    digits_of_n = [int(j) for j in str(digital_summation)]
+                    # add digits again
+                    digital_summation = sum(digits_of_n)
+                    
+                    # If the new sum is in the fail case numbers, return false
+                    if digital_summation in second_test_fails:
+                        return False
+                    
+                    # If the new sum is in the success cases list, return true
+                    elif digital_summation in second_test_numbers:
+                        return True
+                    
+                    # if the new sum is still more than 1 digit, continue the loop
+                    elif digital_summation > 9:
+                        continue
+                    
+                    # This should never happen, but it's here for proper exception handling.
+                    else:
+                        # Raise an exception and break out
+                        print(error_message)
+                        break
+            
+            # else...thie shouldn't happen...raise an exception and break out
+            else:
+                print(error_message)
+                return False
+                
+            
+        
+    else:
+        # n did not pass the first test.
+        return False
+```
+
+### Day 29-30: February 12th & 13th, 2020
 #### _Stumped_
 
 **Today's Progress:** Yesterday I was feeling pretty exhausted after a long road trip. So I opted to break out some old reading for a bit in bed, and revisited 24 deadly sins of software security. I'm counting it, because it's better than doing nothing. Today I completed one freecodecamp exercise, _Learn How the CSS @keyframes and animation Properties Work_. I animated a rectangular graphic in such a way that it morphed between colors 3 times over the course of 4 seconds. I also made an attempt at completed the codewars.com kata "You're a Square" - but was unable to create a solution that passed (yet).
