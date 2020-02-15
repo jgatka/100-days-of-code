@@ -79,13 +79,17 @@ def is_square(n):
         if (digital_summation in second_test_numbers):
             return True
         
-        # Otherwise, one of two things has happened, 1) The number is either in (2,3,5,6,8), or 2) The number is > 9, and digital summation will need to take place again.
+        # Otherwise, one of two things has happened, 1) The number is either in 
+		#(2,3,5,6,8), or 2) The number is > 9, and digital summation will need 
+		# to take place again.
         else:
-            # if the digital summation is either 0, 2, 3, 5, 6, or 8 - return False
+            # if the digital summation is either 0, 2, 3, 5, 6, or 8 - return 
+			# False
             if (digital_summation in second_test_fails):
                 return False
             
-            # integer is double digits...we'll need to repeat digital summation until it isn't.
+            # integer is double digits...we'll need to repeat digital 
+			# summation until it isn't.
             elif digital_summation > 9:
                 while digital_summation > 9:
                     # split up the digits again
@@ -101,11 +105,13 @@ def is_square(n):
                     elif digital_summation in second_test_numbers:
                         return True
                     
-                    # if the new sum is still more than 1 digit, continue the loop
+                    # if the new sum is still more than 1 digit, continue the 
+					# loop
                     elif digital_summation > 9:
                         continue
                     
-                    # This should never happen, but it's here for proper exception handling.
+                    # This should never happen, but it's here for proper 
+					# exception handling.
                     else:
                         # Raise an exception and break out
                         print(error_message)
