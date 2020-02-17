@@ -1,6 +1,18 @@
 # 100 Days Of Code - Log
 
-### Day 30-21: February 14th & 15th, 2020
+### Day 32: February 16th, 2020
+#### _More animation_
+
+**Today's Progress:** I completed two exercises on freecodecamp. Today's lessons dealt with using keyframes to configure animations. I configured a button so that it would change background color when a user hovers over it. I then used the <em>animation-fill-mode: forwards;</em> parameter to configure the animation so that the color would remain changed for as long as the user is hovering over it.
+
+**Thoughts:** I stopped working on the perfect squares codewars exercise for a day. I hope to return to it tomorrow. Thus far my python code has been written in vim or notepad++. I'm contemplating installing an IDE so that more serious debugging can take place, either pycharm or, more likely, visual studio code. Either way, it felt good to get the dopamine hit from completing some exercises again, and I'm glad I was able to make some forward progress today.
+
+**Link(s) to work:**
+* [My profile on freecodecamp.org](https://freecodecamp.org/jgatka)
+
+<hr />
+
+### Day 30-31: February 14th & 15th, 2020
 #### _Still Stumped_
 
 **Today's Progress:** I spent a few more hours refactoring my code for the _You're_ _a_ _Square_ exercise on Codewars. My code is still not passing all unit tests. Some of the higher integer numbers are still returning incorrectly. I'll have to continue on this one.
