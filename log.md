@@ -1,5 +1,17 @@
 # 100 Days Of Code - Log
 
+### Day 33: February 18th, 2020
+#### _Even more animation_
+
+**Today's Progress:** I completed three exercises on freecodecamp tonight. I used _keyframes_ to move an element from left to right, then I changed the opacity of a ball as it moved from left to right, making it fade out, and then finally I set a ball to bounce infinitely.
+
+**Thoughts:** I missed a day yesterday. Nobody is perfect I suppose. Creating and configuring animations has been great. I've never done anything like it previously. I've been brainstorming what kinds of animations to put into my projects. I may make try to create a metronome on my webpage that takes a BPM value and pulsates/beeps accordingly, coded using animations.
+
+**Link(s) to work:**
+* [My profile on freecodecamp.org](https://freecodecamp.org/jgatka)
+
+<hr />
+
 ### Day 32: February 16th, 2020
 #### _More animation_
 
