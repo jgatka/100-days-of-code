@@ -1,5 +1,17 @@
 # 100 Days Of Code - Log
 
+### Day 34: February 19th, 2020
+#### _Inifinte Animations_
+
+**Today's Progress:** I completed two exercises on freecodecamp tonight. I modified the _keyframes_ to make a heartbeat animation continuous, I then animated elements at variable rates so that two similar elements (in this case, stars) can appear to move at different rates/times.
+
+**Thoughts:** It's especially tough to get my coding in on nights after band practice. I can't wait to play with some of these animation values though. Tonight's exercises reminded me a lot of the types of animations on one of my favorite websites, duolingo.com.
+
+**Link(s) to work:**
+* [My profile on freecodecamp.org](https://freecodecamp.org/jgatka)
+
+<hr />
+
 ### Day 33: February 18th, 2020
 #### _Even more animation_
 
