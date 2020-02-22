@@ -1,7 +1,7 @@
 # 100 Days Of Code - Log
 
 ### Day 36: February 21st, 2020
-#### ✅ Applied Visual Design
+#### ✅ _Applied Visual Design_
 
 **Today's Progress:** I completed the final two exercises on the freecodecamp.org chapter _Applied_ _Visual_ _Design_:
 
