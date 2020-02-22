@@ -3,7 +3,7 @@
 ### Day 36: February 21st, 2020
 #### ✅ Applied Visual Design
 
-**Today;s Progress:** I completed the final two exercises on the freecodecamp.org chapter _Applied_ _Visual_ _Design_:
+**Today's Progress:** I completed the final two exercises on the freecodecamp.org chapter _Applied_ _Visual_ _Design_:
 
 * Use a Bezier Curve to Move a Graphic
 * Make Motion More Natural Using a Bezier Curve
