@@ -1,5 +1,46 @@
 # 100 Days Of Code - Log
 
+### Day 36: February 21st, 2020
+#### ✅ Applied Visual Design
+
+**Today;s Progress:** I completed the final two exercises on the freecodecamp.org chapter _Applied_ _Visual_ _Design_:
+
+* Use a Bezier Curve to Move a Graphic
+* Make Motion More Natural Using a Bezier Curve
+
+I learned how to move multiple graphics at varying rates. I used this to animate three colored balls in such a way that made them look like they were being juggled.
+
+**Thoughts:** I'm happy to have completed another chapter. As of tonight I've completed three chapters of freecodecamp:
+
+* Basic HTML and HTML5
+* Basic CSS
+* Applied Visual Design 
+
+I'm excited to start the Applied Accessibility chapter. At one point in my career, I was working on a Security and Compliance team, and one of our team members was doing a great job of increasing accessibility awareness inside of the company. I learned a lot about how persons with disabilities and impairments navigate websites and apps. I'm stoked to learn how to include accessibility into my own code for a change.
+
+**Link(s) to work:**
+* [My profile on freecodecamp.org](https://freecodecamp.org/jgatka)
+
+<hr />
+
+### Day 35: February 20th, 2020
+#### _Variable Rates, Timing, and Bezier Curves_
+
+**Today's Progress:** I completed three exercises on freecodecamp tonight:
+
+* Animate Multiple Elements at Variable Rates
+* Change Animation Timing with Keywords
+* Learn How Bezier Curves Work
+
+I learned how to change the rate of movement of animated elements, using the _ease_, _ease-in_, _ease-out_, and _linear_ values. I also learned how to customize the rate of movement across/down an axis using the _bezier- curve(x1, x2, y1, y2)_ syntax.
+
+**Thoughts:** Customizing the animations is having me wonder what kind of animations I'll put on my own page. Only 2 more exercises left in the Applied Visual Design chapter of the course!
+
+**Link(s) to work:**
+* [My profile on freecodecamp.org](https://freecodecamp.org/jgatka)
+
+<hr />
+
 ### Day 34: February 19th, 2020
 #### _Inifinte Animations_
 
