@@ -15,7 +15,7 @@ solution('abcdef') # should return ['ab', 'cd', 'ef']
 '''
 ```
 
-_My solution (worked, I passed the kata)_:
+My solution (_worked, I passed the kata_):
 ```python
 def solution(s):
     s_chars = list(s)
@@ -53,7 +53,7 @@ def solution(s):
 **Thoughts:** This one took me an hour to complete. Tweaking the algorithm to make the correct addition to the list when you are on the last character was the most most challenging part. That part took 45 minutes to work out, while the rest of the code I whipped up in about 15 minutes.
 
 **Link(s) to Work:**
-* ["Split Strings" - Codewars.com]https://www.codewars.com/kata/515de9ae9dcfc28eb6000001
+* ["Split Strings" - Codewars.com](https://www.codewars.com/kata/515de9ae9dcfc28eb6000001)
 * [My Completed Solutions - Codewars.com](https://www.codewars.com/users/jgatka/completed_solutions)
 
 <hr />
