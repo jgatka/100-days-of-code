@@ -1,4 +1,62 @@
 # 100 Days Of Code - Log
+### Day 37: February 23rd, 2020
+#### ✅ _Split Strings_
+
+**Today's Progress:** My band had a show yesterday, and I wasn't able to make time to code. I resumed coding today. Rather than try to complete the previously attempted (and still not solved) _perfect_ _squares_ kata on codewars.com, I decided to try a new one: _split_ _strings_:
+
+```python
+'''
+Complete the solution so that it splits the string into pairs of two characters. If the string contains an odd number of characters then it should replace the missing second character of the final pair with an underscore ('_').
+
+Examples:
+
+solution('abc') # should return ['ab', 'c_']
+solution('abcdef') # should return ['ab', 'cd', 'ef']
+'''
+```
+
+_My solution (worked, I passed the kata)_:
+```python
+def solution(s):
+    s_chars = list(s)
+    s_length = len(s)
+    string_pairs = []
+    count = 0
+    
+    # if even
+    if s_length % 2 == 0:
+        # code
+        while count < s_length:
+            string_pairs.append(s_chars[count] + s_chars[count+1])
+            count += 2
+        
+    # if odd
+    elif s_length % 2 != 0:
+        while count <= (s_length):
+            if count < s_length and count != (s_length-1):
+                string_pairs.append(s_chars[count] + s_chars[count+1])
+                count += 2
+            elif count == (s_length - 1):
+                string_pairs.append(s_chars[count] + '_')
+                count += 2
+                
+            else:
+                count+=2
+        
+    # if neither even nor odd (shouldn't happen)
+    else:
+        print("Error!")
+      
+    return string_pairs
+```
+
+**Thoughts:** This one took me an hour to complete. Tweaking the algorithm to make the correct addition to the list when you are on the last character was the most most challenging part. That part took 45 minutes to work out, while the rest of the code I whipped up in about 15 minutes.
+
+**Link(s) to Work:**
+* ["Split Strings" - Codewars.com]https://www.codewars.com/kata/515de9ae9dcfc28eb6000001
+* [My Completed Solutions - Codewars.com](https://www.codewars.com/users/jgatka/completed_solutions)
+
+<hr />
 
 ### Day 36: February 21st, 2020
 #### ✅ _Applied Visual Design_
@@ -18,7 +76,7 @@ I learned how to move multiple graphics at varying rates. I used this to animate
 
 I'm excited to start the Applied Accessibility chapter. At one point in my career, I was working on a Security and Compliance team, and one of our team members was doing a great job of increasing accessibility awareness inside of the company. I learned a lot about how persons with disabilities and impairments navigate websites and apps. I'm stoked to learn how to include accessibility into my own code for a change.
 
-**Link(s) to work:**
+**Link(s) to Work:**
 * [My profile on freecodecamp.org](https://freecodecamp.org/jgatka)
 
 <hr />
@@ -36,7 +94,7 @@ I learned how to change the rate of movement of animated elements, using the _ea
 
 **Thoughts:** Customizing the animations is having me wonder what kind of animations I'll put on my own page. Only 2 more exercises left in the Applied Visual Design chapter of the course!
 
-**Link(s) to work:**
+**Link(s) to Work:**
 * [My profile on freecodecamp.org](https://freecodecamp.org/jgatka)
 
 <hr />
@@ -48,7 +106,7 @@ I learned how to change the rate of movement of animated elements, using the _ea
 
 **Thoughts:** It's especially tough to get my coding in on nights after band practice. I can't wait to play with some of these animation values though. Tonight's exercises reminded me a lot of the types of animations on one of my favorite websites, duolingo.com.
 
-**Link(s) to work:**
+**Link(s) to Work:**
 * [My profile on freecodecamp.org](https://freecodecamp.org/jgatka)
 
 <hr />
@@ -60,7 +118,7 @@ I learned how to change the rate of movement of animated elements, using the _ea
 
 **Thoughts:** I missed a day yesterday. Nobody is perfect I suppose. Creating and configuring animations has been great. I've never done anything like it previously. I've been brainstorming what kinds of animations to put into my projects. I may make try to create a metronome on my webpage that takes a BPM value and pulsates/beeps accordingly, coded using animations.
 
-**Link(s) to work:**
+**Link(s) to Work:**
 * [My profile on freecodecamp.org](https://freecodecamp.org/jgatka)
 
 <hr />
@@ -72,7 +130,7 @@ I learned how to change the rate of movement of animated elements, using the _ea
 
 **Thoughts:** I stopped working on the perfect squares codewars exercise for a day. I hope to return to it tomorrow. Thus far my python code has been written in vim or notepad++. I'm contemplating installing an IDE so that more serious debugging can take place, either pycharm or, more likely, visual studio code. Either way, it felt good to get the dopamine hit from completing some exercises again, and I'm glad I was able to make some forward progress today.
 
-**Link(s) to work:**
+**Link(s) to Work:**
 * [My profile on freecodecamp.org](https://freecodecamp.org/jgatka)
 
 <hr />
@@ -84,7 +142,7 @@ I learned how to change the rate of movement of animated elements, using the _ea
 
 **Thoughts:** I started my code from scratch after reading [this](https://www.quora.com/What-is-the-quickest-way-to-determine-if-a-number-is-a-perfect-square?share=1) quora thread. But it doesn't appear that the theory covers all perfect squares. At the very least, I count this as forward progress because it isn't timing out anymore like it did at last attempt.
 
-**Link(s) to work:**
+**Link(s) to Work:**
 * ["You're a Square!" - Codewars.com](https://www.codewars.com/kata/54c27a33fb7da0db0100040e/train/python)
 * [My Completed Solutions - Codewars.com](https://www.codewars.com/users/jgatka/completed_solutions)
 
@@ -213,7 +271,7 @@ def is_square(n):
 
 **Thoughts:** I actually think it's rad that my codewars.com solution to the kata is incomplete. My solution passed the few unit tests that are provided, but somewhere in the larger battery of use cases, one such use case causes the code to time out. This goes to show how incomplete some simple unit tests can be, something I have concerns about due to my AppSec background. I have a feeling I know why the solution isn't complete though. Somewhere in the numbers that are tested is no doubt a huge number (bigint?)...and the amount of time that it takes for my code to decrement across all numbers between that number and zero is probably too long, causing the timeout. I'm going to have to revisit my logic and try to find a more efficient way to narrow down potential solutions. I'm happy that I was able to complete an exercise in the freecodecamp curriculum though, and get my code dopamine hit for the night.
 
-**Link(s) to work:**
+**Link(s) to Work:**
 * [My profile on freecodecamp.org](https://freecodecamp.org/jgatka)
 * ["You're a Square!" - Codewars.com](https://www.codewars.com/kata/54c27a33fb7da0db0100040e/train/python)
 * [My Completed Solutions - Codewars.com](https://www.codewars.com/users/jgatka/completed_solutions)
@@ -248,7 +306,7 @@ def is_square(n):
 
 **Thoughts:** I thought it was kind of cool to learn how to create a heart just in time for valentines day. the ::before and ::after pseudo-elements are new to me. I'll need some practice manipulating these in such a way that it creates familiar shapes. Looking forward to practicing with these during the final projects.
 
-**Link(s) to work:**
+**Link(s) to Work:**
 * [My profile on freecodecamp.org](https://freecodecamp.org/jgatka)
 
 <hr />
@@ -260,7 +318,7 @@ def is_square(n):
 
 **Thoughts:** I love InfoSec, but there are times, like right now, where I wish I could be more verbose about the work that I do.
 
-**Link(s) to work:**
+**Link(s) to Work:**
 * <strike>Redacted</strike>
 
 <hr />
@@ -272,7 +330,7 @@ def is_square(n):
 
 **Thoughts**: I've completed 37 of the 52 exercises of the applied visual design unit. The next unit will cover applied accessibilty. Looking forward to it. I'm also looking forward to the increase in difficulty in codewars exercises.
 
-**Link(s) to work:**
+**Link(s) to Work:**
 * [My profile on freecodecamp.org](https://freecodecamp.org/jgatka)
 * ["Categorize New Member" - Codewars.com](https://www.codewars.com/kata/5502c9e7b3216ec63c0001aa)
 * [My Completed Solutions - Codewars.com](https://www.codewars.com/users/jgatka/completed_solutions)
@@ -301,7 +359,7 @@ def openOrSenior(data):
 
 **Thoughts:** I didn't have a chance to code outside of work yesterday, so I tried to make up for it today by doing a codewars kata AND some freecodecamp work. It felt good to write some Python and solve a codewars kata for the first time in a long time. When I saw how others solved the kata, I realized that I could definitely refactor my code and make it shorter. I'm tempted to be overly critical of myself, but I'm going to resist that urge, because this is all about getting better. I can refactor it in the future, after I've learned more, but the important thing is that it worked, it passed ALL unit tests, and it solved the problem. Again, part of the struggle of completing #100daysofCode, for me anyways, is understandig that <em>perfect is the enemy of done</em>. Rather than quitting because I didn't maintain a perfect 100 day streak, I'm going to just keep going, because the goal is to become a better developer, not a perfect one. 🙌
 
-**Link(s) to work:**
+**Link(s) to Work:**
 * [My profile on freecodecamp.org](https://freecodecamp.org/jgatka)
 * ["Who Likes It?" - Codewars.com](https://www.codewars.com/kata/5266876b8f4bf2da9b000362/train/python)
 * [My Completed Solutions - Codewars.com](https://www.codewars.com/users/jgatka/completed_solutions)
@@ -333,7 +391,7 @@ def likes(names):
 
 **Thoughts:** Seeing the way that the colors transitioned in the gradients, and creating a div element that had the appearance of a yellow and black construction sign was really, really cool. For a dude that has primarily written code that displays and styles text, or console applications that also take and return text...it was a new experience watching my code create shapes and colors. I'm really looking forward to the projects at the end of this section of the course.
 
-**Link(s) to work:**
+**Link(s) to Work:**
 * [My profile on freecodecamp.org](https://freecodecamp.org/jgatka)
 
 <hr />
@@ -345,7 +403,7 @@ def likes(names):
 
 **Thoughts:** It was interesting learning how to designate argument variables in Bash in a fashion I'm used to doing in Python. As for the lessons on applied visual design, I now know several different ways to set the color property on an element in a page. It is nice that there are so many ways to accomplish this task in HTML/CSS. My gut feeling is still that simpler is better though. I will most likely continue doing what I've always done, going to a site with a color wheel, pick a color that appeals to me, copy its hex code, and add it to my page. However, using opposite/complementary colors is easier if you know the value of one of the colors in hsl(x,y,z) style notation.
 
-**Link(s) to work:**
+**Link(s) to Work:**
 * [My profile on freecodecamp.org](https://freecodecamp.org/jgatka)
 
 <hr />
@@ -357,7 +415,7 @@ def likes(names):
 
 **Thoughts:** Days like today are the ones where it's hard to push through. I've been taking DayQuil to deal with this headache, stuffy nose, and sore throat. I'm about to take NyQuil before bed. No pain no gain. Soon (this weekend I hope) I'm going to reintroduce Python into my coding curriculum, by picking up where I left off in _Automate_ _The_ _Boring_ _Stuff_ _with_ _Python_ and then by completing a codewars exercise as well.
 
-**Link(s) to work:**
+**Link(s) to Work:**
 * [My profile on freecodecamp.org](https://freecodecamp.org/jgatka)
 
 <hr />
@@ -370,7 +428,7 @@ def likes(names):
 
 **Thoughts:** As someone that is colorblind (albeit mildly), I appreciated that the freecodecamp exercises introduced early the idea that a developer should not rely solely on the emphasis provided by complementary colors to style a page.
 
-**Link(s) to work:**
+**Link(s) to Work:**
 * [My profile on freecodecamp.org](https://freecodecamp.org/jgatka)
 
 <hr />
@@ -382,7 +440,7 @@ def likes(names):
 
 **Thoughts:** Yesterday it was tough to power through because I was tired. Today it was tough to power through because it feels like I'm coming down with a cold. Patting myself on the back again today. On to month two! 👍 
 
-**Link(s) to work:**
+**Link(s) to Work:**
 * [My profile on freecodecamp.org](https://freecodecamp.org/jgatka)
 
 <hr />
@@ -394,7 +452,7 @@ def likes(names):
 
 **Thoughts:** It's been tough trying to get ready for my band's first show on the 8th, whilst simultaneously remaining committed to 100daysofCode. Patting myself on the back for continuing even when there's days where I need to push myself a little bit harder than usual.
 
-**Link(s) to work:**
+**Link(s) to Work:**
 * [My profile on freecodecamp.org](https://freecodecamp.org/jgatka)
 
 <hr />
@@ -406,7 +464,7 @@ def likes(names):
 
 **Thoughts:** I've changed hover states before, but relative positioning is a new concept for me. 
 
-**Link(s) to work:**
+**Link(s) to Work:**
 * [My profile on freecodecamp.org](https://freecodecamp.org/jgatka)
 
 <hr />
@@ -418,7 +476,7 @@ def likes(names):
 
 **Thoughts:** I had a busy day but managed to get through three exercises. I'm now 33% through the chapter on AVD. I'm sure that these properties can be applied to more tags than just the headings and paragraph tags. I'll have to test this in later chapters. While I've used font-size before, the font-weight and line-height properties are brand new to me. I've said it before and I'll say it again, I'm glad I followed my instincts and decided to start from the beginning. Many gaps that I didn't know existed are being filled in. Also...this week I put together a new PC, so I'm actually updating the log in Notepad++ on my PC instead of in vim on my Raspberry Pi. I use vim enough at my job that I'm not worried about losing that skill set. It's also worth noting that I generated rsa keys and uploaded them to github so that I could update the log from this PC as well. Does using ssh-keygen in powershell count as a #100daysofcode exercise? I think maybe it should (:
 
-**Link(s) to work:**
+**Link(s) to Work:**
 * [My profile on freecodecamp.org](https://freecodecamp.org/jgatka)
 
 <hr />
@@ -430,7 +488,7 @@ def likes(names):
 
 **Thoughts:** Adding a box shadow to a card element made it look much more appealing. I can _see_ the quallity of my code improving. The context for box shadows is actually kind of difficult to digest. I'll need to practice with this one a lot more. The elements (offset-x, offset-y, blur-radius, spread-radius, and color) must appear in a specific order, and 2 of them (blur-radius, spread-radius) are optional. I assumed opacity would go from 0 to 255, but actually the range is 1 (solid) to 0 (transparent). As an InfoSec guy, I can see nefarious uses for setting the opacity of elements that I seek to hide from the user to 0. The text transform property will allow me to set the case of all words in an element rather than editing the words individually. Handy for headlines, titles, headings, etc.**
 
-**Link(s) to work:**
+**Link(s) to Work:**
 * [My profile on freecodecamp.org](https://freecodecamp.org/jgatka)
 
 <hr />
@@ -442,7 +500,7 @@ def likes(names):
 
 **Thoughts:** I jumped around quite a bit today but I'm really happy that I'm continuing to diversity my skill set. The vim and bash knowledge come in handy and I'm glad that I'm leveling those skills up to scale along with my coding ability.
 
-**Link(s) to work:**
+**Link(s) to Work:**
 * [My profile on freecodecamp.org](https://freecodecamp.org/jgatka)
 
 <hr />
@@ -470,7 +528,7 @@ _...and from the Applied Visual Design chapter:_
 
 **Thoughts:** I'm 15% through the chapter on Applied Visual Design already. I covered a lot of ground over the last 3 days and I'm still enjoying the consistency. I'm worried I'm going to forget some of the class/variable/inline selection from the CSS chapter, so I'm contemplating starting some of the projects early. I peeked ahead and there's a portfolio and memorial page that I could probably put together now and iterate/improve upon as the coursework continues. However, I want to make sure I stick with this, so I don't want to get _too_ far ahead of myself. A lot of the AVD exercises were review for me. I always used the "b" tag instead of "strong", and the "i" tag instead of "em", but I'm glad I got some practice learning the other way. The text align lessons were new information for me though.
 
-**Link(s) to work:**
+**Link(s) to Work:**
 * [My profile on freecodecamp.org](https://freecodecamp.org/jgatka)
 
 <hr />
@@ -482,7 +540,7 @@ _...and from the Applied Visual Design chapter:_
 
 **Thoughts**: I've now completed 91% of the CSS chapter and only have 4 lessons left. The next chapter deals with applied visual design. Stoked. I'm also getting pretty damn good with vim.
 
-**Link(s) to work:**
+**Link(s) to Work:**
 * [My profile on freecodecamp.org](https://freecodecamp.org/jgatka)
 
 <hr />
@@ -494,7 +552,7 @@ _...and from the Applied Visual Design chapter:_
 
 **Thoughts:** Busy day at work, band practice, and I still managed to get in two exercises and update my log. Rad. Onward and upward.
 
-**Link(s) to work:**
+**Link(s) to Work:**
 * [My profile on freecodecamp.org](https://freecodecamp.org/jgatka)
 
 <hr />
@@ -506,7 +564,7 @@ _...and from the Applied Visual Design chapter:_
 
 **Thoughts:** When I first started using HTML/CSS back in the MySpace days I used hex codes. I would just look them up (probably yahoo search back in those days) and add them to my page. Now I know that the codes use two hexadecimal characters each for Red, Green, and Blue. This revelation made me harken back to elementary school and learning that TVs (and later CRT monitors) used RGB to display colors. I also had no idea that you could abbreviate the hex codes from 6 characters down to three. Still, I plan on actually writing the color out wherever possible, do keep my code readable. I'm continuing to come up with cool ideas for the projects later in the course where I'll build my own pages. Stoked.
 
-**Link(s) to work:**
+**Link(s) to Work:**
 * [My profile on freecodecamp.org](https://freecodecamp.org/jgatka)
 
 <hr />
@@ -525,7 +583,7 @@ _...and from the Applied Visual Design chapter:_
 
 The lesson about precedence is another example of something that I never learned when teaching myself to code outside of a structured curriculum. I just styled text and hoped for the best. Trial and error were my ways of knowing which takes precedence. I'm happy that I finally know so many ways to style attributes using HTML/CSS, and I'm really thankful for freecodecamp.org!
 
-**Link(s) to work:**
+**Link(s) to Work:**
 * [My profile on freecodecamp.org](https://freecodecamp.org/jgatka)
 
 <hr />
@@ -537,7 +595,7 @@ The lesson about precedence is another example of something that I never learned
 
 **Thoughts:** I did not know that you could use clockwise notation to adjust all four sides of an object in a single line. As painful as it is to start this journey at the beginning (I studied HTML/CSS in the myspace.com era...yeah...I'm that old), I'm glad that I'm doing it this way. I'm picking up bits and pieces of stuff that I missed along the way. It's the slow and steady way but I'm hoping it's the way that wins the race.
 
-**Link(s) to work:**
+**Link(s) to Work:**
 * [My profile on freecodecamp.org](https://freecodecamp.org/jgatka)
 
 <hr />
@@ -554,7 +612,7 @@ The lesson about precedence is another example of something that I never learned
 
 **Thoughts:** Starting a new job, a death in the family, my PC completely dying on me, continual struggles in my personal life, learning vim (which I'm using to write this update, btw)...I could make all sorts of excuses on why I abandoned 100 days of code in 2019, but they'd be just that, excuses. Instead I'm just going to get right back on the horse and jump back into this. My new priority will be completing as much of freecodecamp.org as I can. I'll also continue working on python apps to serve my personal and work needs whenever such needs arise. I'd like to continue working on challenges on code wars when opportunities present themselves.
 
-**Link(s) to work:**
+**Link(s) to Work:**
 * [My profile on freecodecamp.org](https://freecodecamp.org/jgatka)
 
 <hr />
@@ -566,7 +624,7 @@ The lesson about precedence is another example of something that I never learned
 
 **Thoughts:** I'm nervous, but I know I'm going to have a blast once I get started. I've always enjoyed coding, and my career aspirations of becoming a security engineer require me to get more proficient at it.
 
-**Link(s) to work:**
+**Link(s) to Work:**
 * [My 100 Days of Code Repo on Github](https://github.com/jgatka/100-days-of-code)
 * [My profile on codewars](https://www.codewars.com/users/jgatka)
 
@@ -581,7 +639,7 @@ Having successfully created a new app, I decided to upload the project to github
 
 **Thoughts:** It's interesting that the github troubleshooting took longer to deal with than writing the app itself. I suppose that's the nature of the beast though. Years of InfoSec experience has taught me to remain calm when fires need to be put out. Special thanks to my buddy Samuel Kelemen for helping me troubleshoot the github issues. I linked to his github below and you should check it out.
 
-**Link(s) to work:**
+**Link(s) to Work:**
 * [Roman Numerals Encoder](https://github.com/jgatka/RomanNumeralsEncoder)
 * [Samuel Kelemen @ github](https://github.com/SCKelemen)
 
