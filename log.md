@@ -2,7 +2,7 @@
 ### Day 37: February 23rd, 2020
 #### ✅ _Split Strings_
 
-**Today's Progress:** My band had a show yesterday, and I wasn't able to make time to code. I resumed coding today. Rather than try to complete the previously attempted (and still not solved) _perfect_ _squares_ kata on codewars.com, I decided to try a new one: _split_ _strings_:
+**Today's Progress:** My band had a show yesterday, and I wasn't able to make time to code. I resumed coding today. Rather than try to complete the previously attempted (and still not solved) _Perfect_ _Squares_ kata on codewars.com, I decided to try a new one: _Split_ _Strings_:
 
 ```python
 '''
