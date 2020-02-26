@@ -1,4 +1,21 @@
 # 100 Days Of Code - Log
+
+#### Days 38 & 39, February 24th - 25th, 2020
+#### _Accessibility_
+
+**Today's Progress:** I did some coding yesterday for work, but I'm not at liberty to elaborate. Today I completed the first three exercises in the <em>Applied Accessibility</em> chapter of freecodecamp.org:
+
+* Add a Text Alternative to Images for Visually Impaired Accessibility
+* Know When Alt Text Should be Left Blank
+* Use Headings to Show Hierarchical Relationships of Content
+
+**Thoughts:** I have used alt="" codes on images on websites before, but the second two exercises included lessons that are new to me. I did not realize that there is an accessibility use case for using an empty attribute. I also did not realize that using headings in a way that does not follow a logical order can be frustrating to users with disabilities. I feel privileged to learn about this perspective as I'm working through the tutorials/exercises.
+
+**Link(s) to Work:**
+* [My profile on freecodecamp.org](https://freecodecamp.org/jgatka)
+
+<hr />
+
 ### Day 37: February 23rd, 2020
 #### ✅ _Split Strings_
 
