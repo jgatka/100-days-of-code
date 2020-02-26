@@ -1,6 +1,6 @@
 # 100 Days Of Code - Log
 
-#### Days 38 & 39, February 24th - 25th, 2020
+### Days 38 & 39, February 24th - 25th, 2020
 #### _Accessibility_
 
 **Today's Progress:** I did some coding yesterday for work, but I'm not at liberty to elaborate. Today I completed the first three exercises in the <em>Applied Accessibility</em> chapter of freecodecamp.org:
