@@ -1,5 +1,21 @@
 # 100 Days Of Code - Log
 
+### Day 40, February 26th, 2020
+#### _Main, Article, Header_
+
+**Today's Progress:** I completed 3 exercises in the <em>Applied Accessibility</em> chapter of freecodecamp.org:
+
+* Jump Straight to the Content Using the main Element
+* Wrap Content in the article Element
+* Make Screen Reader Navigation Easier with the header Landmark
+
+**Thoughts:** I did not realize the importance of using main, article, and header to keep the page logically organized for individuals with disabilities. I think that learning the contextual differences between section and article will take practice, but otherwise I think that I have a pretty good handle on the correct uses of the three tags I studied tonight.
+
+**Link(s) to Work:**
+* [My profile on freecodecamp.org](https://freecodecamp.org/jgatka)
+
+<hr />
+
 ### Days 38 & 39, February 24th - 25th, 2020
 #### _Accessibility_
 
