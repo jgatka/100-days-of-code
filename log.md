@@ -1,5 +1,21 @@
 # 100 Days Of Code - Log
 
+### Days 41 & 42, February 27th-28th, 2020
+#### _Nav, Footer, and Audio_
+
+**Today's Progress:** Yesterday I did some coding for work, but as before I'm choosing not to elaborate further. Today, I completed 3 exercises in the <em>Applied Accessibility</em> chapter of freecodecamp.org:
+
+* Make Screen Reader Navigation Easier with the nav Landmark
+* Make Screen Reader Navigation Easier with the footer Landmark
+* Improve Accessibility of Audio Content with the audio Element
+
+**Thoughts:** These tags/features of HTML5 are all brand new to me. My first thought is that it is so cool that adding audio controls is as easy as ensuring that the "controls" element is added to the "audio" tag. In this way, a sound clip can include a play and pause button. I think it's really, really cool that freecodecamp put the spotlight on Florian Beijers (@zersiax). Florian is a web developer that is passionate about accessibility and screen readers. RAD! Maybe one day I'll be featured as a web developer that is passionate about application security in a lesson.
+
+**Link(s) to Work:**
+* [My profile on freecodecamp.org](https://freecodecamp.org/jgatka)
+
+<hr />
+
 ### Day 40, February 26th, 2020
 #### _Main, Article, Header_
 
