@@ -1,4 +1,18 @@
 # 100 Days Of Code - Log
+### Days 43 & 44, February 29th - March 1st, 2020
+#### Figure, Label, and Fieldset
+
+**Today's Progress:** Yesterday and today I attempted to spend some time creating a solution for the "WeIrD StRiNg CaSe" kata, but haven't successfully developed a solution yet. I hope to come back to it this week. I also still have the unsolved "Perfect Squares" kata to finish as well. I'm hoping to finish both of those next weekend before I attempt a separate one. I don't want to have a big backlog of unsolved katas. I also finished 3 tutorials in the freecodecamp.org chapter on <em>Applied Accessibility</em>:
+
+* Improve Chart Accessibility with the figure Element
+* Improve Form Field Accessibility with the label Element
+* Wrap Radio Buttons in a fieldset Element for Better Accessibility
+
+**Thoughts:** It is interesting to note how many elements of websites are typically encapsulated in a <div> tag, making it hard for users with disabilities to discern specifics and context from elements like radio buttons and charts. Today begins a new month in my #100daysofcode journey. I'm happy with the progress I've been making despite the other obligations I have in my life. I think that I'll be able to reach my goal of being the equivalent of a junior developer by 2021.
+
+**Link(s) to Work:**
+* [My profile on freecodecamp.org](https://freecodecamp.org/jgatka)
+* ["WeIrD StRiNg CaSe" - Codewars.com](https://www.codewars.com/kata/52b757663a95b11b3d00062d)
 
 ### Days 41 & 42, February 27th-28th, 2020
 #### _Nav, Footer, and Audio_
