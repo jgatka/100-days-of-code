@@ -8,7 +8,7 @@
 * Improve Form Field Accessibility with the label Element
 * Wrap Radio Buttons in a fieldset Element for Better Accessibility
 
-**Thoughts:** It is interesting to note how many elements of websites are typically encapsulated in a <div> tag, making it hard for users with disabilities to discern specifics and context from elements like radio buttons and charts. Today begins a new month in my #100daysofcode journey. I'm happy with the progress I've been making despite the other obligations I have in my life. I think that I'll be able to reach my goal of being the equivalent of a junior developer by 2021.
+**Thoughts:** It is interesting to note how many elements of websites are typically encapsulated in a "div" tag, making it hard for users with disabilities to discern specifics and context from elements like radio buttons and charts. Today begins a new month in my #100daysofcode journey. I'm happy with the progress I've been making despite the other obligations I have in my life. I think that I'll be able to reach my goal of being the equivalent of a junior developer by 2021.
 
 **Link(s) to Work:**
 * [My profile on freecodecamp.org](https://freecodecamp.org/jgatka)
