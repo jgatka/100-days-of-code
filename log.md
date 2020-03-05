@@ -1,6 +1,22 @@
 # 100 Days Of Code - Log
+
+### Day 45, March 4th, 2020
+#### _Date & Datetime_
+
+**Today's Progress:** Today I completed two tutorials in freecodecamp.org, covering the date and datetime input types:
+
+* Add an Accessible Date Picker
+* Standardize Times with the HTML5 datetime Attribute
+
+**Thoughts:** I took two days off because I've been feeling under the weather. I'm disappointed but I know that I needed to do it. Tonight's tutorials covered more HTML5 topics that I was previously unaware of. Seeing the expected date format automatically populate an input text box as soon as the input type tag was added, was really cool.
+
+**Link(s) to Work:**
+* [My profile on freecodecamp.org](https://freecodecamp.org/jgatka)
+
+<hr />
+
 ### Days 43 & 44, February 29th - March 1st, 2020
-#### Figure, Label, and Fieldset
+#### _Figure, Label, and Fieldset_
 
 **Today's Progress:** Yesterday and today I attempted to spend some time creating a solution for the "WeIrD StRiNg CaSe" kata, but haven't successfully developed a solution yet. I hope to come back to it this week. I also still have the unsolved "Perfect Squares" kata to finish as well. I'm hoping to finish both of those next weekend before I attempt a separate one. I don't want to have a big backlog of unsolved katas. I also finished 3 tutorials in the freecodecamp.org chapter on <em>Applied Accessibility</em>:
 
@@ -13,6 +29,8 @@
 **Link(s) to Work:**
 * [My profile on freecodecamp.org](https://freecodecamp.org/jgatka)
 * ["WeIrD StRiNg CaSe" - Codewars.com](https://www.codewars.com/kata/52b757663a95b11b3d00062d)
+
+<hr />
 
 ### Days 41 & 42, February 27th-28th, 2020
 #### _Nav, Footer, and Audio_
