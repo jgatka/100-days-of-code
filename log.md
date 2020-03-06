@@ -1,5 +1,21 @@
 # 100 Days Of Code - Log
 
+### Day 46, March 5th, 2020
+#### <em>Colorblind Awareness</em>
+
+**Today's Progress:** I completed 3 exercises in the freecodecamp.org chapter on Applied Accessibility Awareness.
+
+* Improve Readability with High Contrast Text
+* Avoid Colorblindness Issues by Using Sufficient Contrast
+* Avoid Colorblindness Issues by Carefully Choosing Colors that Convey Information
+
+**Thoughts:** As someone whose colorblindness disqualified him from the Air Force gig he wanted (Fire Control Officer on an AC-130), I really enjoyed learning how easy it is to accomodate colorblind users when you test to ensure that the 4.5:1 contrast ratio is being applied on the elements of the page. Very, very cool. I also really like how freecodecamp.org keeps these lessons witty with their lessons on Camper the ninja cat. Getting close to the end of the applied accessibility chapter.
+
+**Link(s) to Work:**
+* [My profile on freecodecamp.org](https://freecodecamp.org/jgatka)
+
+<hr />
+
 ### Day 45, March 4th, 2020
 #### _Date & Datetime_
 
