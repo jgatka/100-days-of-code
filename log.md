@@ -1,5 +1,22 @@
 # 100 Days Of Code - Log
 
+### Day 47, March 7th, 2020
+#### <em>✅ Applied Accessibility</em>
+
+**Today's Progress:** I completed the final three exercises in the <em>Applied Accessibility</em> chapter on freecodecamp.org:
+
+* Give Links Meaning by Using Descriptive Link Text
+* Make Links Navigable with HTML Access Keys
+* Use tabindex to Add Keyboard Focus to an Element
+* Use tabindex to Specify the Order of Keyboard Focus for Several Elements
+
+**Thoughts:**  I learned a lot from this chapter, almost all of the tags, elements, and features I learned about were new for me. I now have an idea about the HTML5 and CSS features that are available to web developers to make their content accessible to users with disabilities and impairments. One thing that I wish that they had done was to have the user create a page and then be forced to navigate it using a screenreader or in a simulated colorblindness. I plan on remembering to do this test on my own at the end of the responsive web design class even if it's not one that is mandatory and alredy incorporated into the curriculum. 
+
+**Link(s) to Work:**
+* [My profile on freecodecamp.org](https://freecodecamp.org/jgatka)
+
+<hr />
+
 ### Day 46, March 5th, 2020
 #### <em>Colorblind Awareness</em>
 
