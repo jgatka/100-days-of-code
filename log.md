@@ -16,7 +16,7 @@ to_weird_case('String'); # => returns 'StRiNg'
 to_weird_case('Weird string case') # => returns 'WeIrD StRiNg CaSe'
 ```
 
-**Thoughts:** I told myself that I would come back and complete at least on of the incomplete codewars.com katas that I had left unfinished. This one took some time to work out, but I finally figured out a solution (below). It was awesome to watch the solution pass all of its unit tests. I spent more time debugging than I did writing out the initial draft. Coming back to this kata after stepping away from it for so many days was difficult. Feeling pretty good today.
+**Thoughts:** I told myself that I would come back and complete at least one of the incomplete codewars.com katas that I had left unfinished. This one took some time to work out, but I finally figured out a solution (below).It was awesome to watch the solution pass all of its unit tests. I spent more time debugging than I did writing out the initial draft. Coming back to this kata after stepping away from it for so many days was difficult. Feeling pretty good today.
 
 **Link(s) to Work:**
 * [My Solutions - Codwars.com](https://www.codewars.com/users/jgatka/completed_solutions)
