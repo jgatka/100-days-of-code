@@ -87,8 +87,9 @@ def to_weird_case(string):
 ```
 
 <hr />
+
 ### Day 47, March 7th, 2020
-#### ✅<em> Applied Accessibility</em>
+#### ✅ _Applied_ _Accessibility_
 
 **Today's Progress:** I completed the final three exercises in the <em>Applied Accessibility</em> chapter on freecodecamp.org:
 
