@@ -1,7 +1,94 @@
 # 100 Days Of Code - Log
 
+### Day 48, March 8th, 2020
+#### ✅<em>WeIrD StRiNg CaSe</em>
+
+**Today's Progress:** I completed the codewars.com kata "<em>"WeIrD StRiNg CaSe"</em>" today. Completing the kata ranked me up to 7kyu in Python on codewars.com. The instructions for the challenge were as follows:
+
+<em>
+Write a function toWeirdCase (weirdcase in Ruby) that accepts a string, and returns the same string with all even indexed characters in each word upper cased, and all odd indexed characters in each word lower cased. The indexing just explained is zero based, so the zero-ith index is even, therefore that character should be upper cased.
+
+The passed in string will only consist of alphabetical characters and spaces(' '). Spaces will only be present if there are multiple words. Words will be separated by a single space(' ').
+Examples:
+</em>
+```
+to_weird_case('String'); # => returns 'StRiNg'
+to_weird_case('Weird string case') # => returns 'WeIrD StRiNg CaSe'
+```
+
+**Thoughts:** I told myself that I would come back and complete at least on of the incomplete codewars.com katas that I had left unfinished. This one took some time to work out, but I finally figured out a solution (below). It was awesome to watch the solution pass all of its unit tests. I spent more time debugging than I did writing out the initial draft. Coming back to this kata after stepping away from it for so many days was difficult. Feeling pretty good today.
+
+**Link(s) to Work:**
+* [My Solutions - Codwars.com](https://www.codewars.com/users/jgatka/completed_solutions)
+* ["WeIrD StRiNg CaSe" - Codewars.com](https://www.codewars.com/kata/52b757663a95b11b3d00062d)
+
+<em>My solution to the codewars.com kata "WeIrD StRiNg CaSe":</em>
+```python3
+def to_weird_case(string):
+    
+    word_count=0
+    word_chars=[]
+    word_length=0
+    count=0
+    recased_word = ''
+    recased_words=[]
+    recased_words_length=0
+    solution = ''
+    
+    
+    # Split the string into individual words
+    words = string.split(' ')
+    word_count = len(words)
+    
+    
+    # For each word, split the word into individual characters
+    for word in words:
+        count = 0
+        word_chars = list(word)
+        word_length = len(word)
+        
+        if word_count > 0:
+            word_length = len(word)
+        
+        # iterate through each character
+            while count < word_length:
+            
+                # if index is even
+                if count % 2 == 0:
+                    recased_word += str(word_chars[count].upper())
+
+                # if index is odd
+                elif count % 2 != 0:
+                    recased_word += str(word_chars[count].lower())
+                # if it's the last char, add the completed word to the list of recased words, then clear the recased word value for the next word.
+                if count == (word_length -1):
+                    recased_words.append(recased_word)
+                    recased_word = ''
+                
+                # Regardless of even or odd...iterate
+                count += 1
+    
+    # reset the count variable to 0
+    count = 0
+    
+    # count the number of recased words
+    recased_words_length = len(recased_words)
+    
+    # Add the recased words to the solution.
+    for recased_word in recased_words:
+        solution += recased_word
+        count += 1
+        # unless it's the last word, add a space
+        if count != (recased_words_length):
+            solution += ' '
+    
+    #return the solution
+    return(solution)
+```
+
+<hr />
 ### Day 47, March 7th, 2020
-#### <em>✅ Applied Accessibility</em>
+#### ✅<em> Applied Accessibility</em>
 
 **Today's Progress:** I completed the final three exercises in the <em>Applied Accessibility</em> chapter on freecodecamp.org:
 
