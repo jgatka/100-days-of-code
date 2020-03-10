@@ -1,5 +1,23 @@
 # 100 Days Of Code - Log
 
+### Day 49, March 10th, 2020
+#### ✅<em>Responsive Web Design Principles</em>
+
+**Today's Progress:** Since the <em>Responsive Web Design Principles</em> chapter was only four tutorials long, I just went ahead and knocked it out over the course of an hour or so. I learned:
+
+* Introduction to the Responsive Web Design Challenges
+* Create a Media Query
+* Make an Image Responsive
+* Use a Retina Image for Higher Resolution Displays
+* Make Typography Responsive
+
+**Thoughts:** Changing the dimensions of elements to conform to the screen that they are on was a lot less complex than I thought it would be. CSS has a few features to simplify this process, and I'm glad that I was able to play around with these features tonight.
+
+**Link(s) to Work:**
+* [My profile on freecodecamp.org](https://freecodecamp.org/jgatka)
+
+<hr />
+
 ### Day 48, March 8th, 2020
 #### ✅<em>WeIrD StRiNg CaSe</em>
 
