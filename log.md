@@ -8,7 +8,7 @@
 * Add Flex Superpowers to the Tweet Embed
 * Use the flex-direction Property to Make a Row
 
-**Thoughts:** I'm not quite sure I understand how this works, but tonight's challenge were focused around adding the "display: flex;" property to elements. Hopefully as I configure more values in the future this will "click" in my head.:wq
+**Thoughts:** I'm not quite sure I understand how this works, but tonight's challenge were focused around adding the "display: flex;" property to elements. Hopefully as I configure more values in the future this will "click" in my head.
 
 **Link(s) to Work:**
 * [My profile on freecodecamp.org](https://freecodecamp.org/jgatka)
