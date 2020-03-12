@@ -1,4 +1,19 @@
 # 100 Days Of Code - Log
+### Day 50, March 11th, 2020
+#### <em>Introduction to the CSS Flexbox Challenges</em>
+
+**Today's Progress:** I started the CSS Flexbox Challenges Chapter of freecodecamp.org and completed three tutorials:
+
+* Use display: flex to Position Two Boxes
+* Add Flex Superpowers to the Tweet Embed
+* Use the flex-direction Property to Make a Row
+
+**Thoughts:** I'm not quite sure I understand how this works, but tonight's challenge were focused around adding the "display: flex;" property to elements. Hopefully as I configure more values in the future this will "click" in my head.:wq
+
+**Link(s) to Work:**
+* [My profile on freecodecamp.org](https://freecodecamp.org/jgatka)
+
+<hr />
 
 ### Day 49, March 10th, 2020
 #### ✅<em>Responsive Web Design Principles</em>
