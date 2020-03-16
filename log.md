@@ -11,6 +11,9 @@
 
 **Thoughts:** It's difficult to stay focused with all of the corona virus hype, but it was nice to see how easy it is to get a site to adapt based on whether the developer wants it to be aligned by column or by row.
 
+**Link(s) to Work:**
+* [My profile on freecodecamp.org](https://freecodecamp.org/jgatka)
+
 <hr />
 
 ### Day 50, March 11th, 2020
