@@ -1,4 +1,18 @@
 # 100 Days Of Code - Log
+
+### Day 51, March 15th, 2020
+#### <em>flex-direction</em>
+
+**Today's Progress:** I completed three tutorials in the CSS Flexbox chapter on _freecodecamp.org_:
+
+* Apply the flex-direction Property to Create Rows in the Tweet Embed
+* Use the flex-direction Property to Make a Column
+* Apply the flex-direction Property to Create a Column in the Tweet Embed
+
+**Thoughts:** It's difficult to stay focused with all of the corona virus hype, but it was nice to see how easy it is to get a site to adapt based on whether the developer wants it to be aligned by column or by row.
+
+<hr />
+
 ### Day 50, March 11th, 2020
 #### <em>Introduction to the CSS Flexbox Challenges</em>
 
