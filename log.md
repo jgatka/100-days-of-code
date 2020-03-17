@@ -1,5 +1,21 @@
 # 100 Days Of Code - Log
 
+### Day 52, March 16th, 2020
+#### <em>Justify-content & Align-items</em>
+
+**Today's Progress:** I completed three tutorials on the freecodecamp.org chapter on CSS Flexbox today:
+
+* Align Elements Using the justify-content Property
+* Use the justify-content Property in the Tweet Embed
+* Align Elements Using the align-items Property
+
+**Thoughts:** I had no idea there are so many options for aligning content in rows/columns in CSS. It's interesting that there is are sort of absolute x and y axises and relative ones available for the developer to position content along.
+
+**Link(s) to Work:**
+* [My profile on freecodecamp.org](https://freecodecamp.org/jgatka)
+
+<hr />
+
 ### Day 51, March 15th, 2020
 #### <em>flex-direction</em>
 
