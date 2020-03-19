@@ -1,5 +1,21 @@
 # 100 Days Of Code - Log
 
+### Day 53, March 18th, 2020
+#### <em>Flex-shrink, Flex-wrap, and more Align-items</em>
+
+**Today's Progress:** I completed three tutorials in freecodecamp.org tonight:
+
+* Use the flex-shrink Property to Shrink Items
+* Use the flex-wrap Property to Wrap a Row or Column
+* Use the align-items Property in the Tweet Embed
+
+**Thoughts:** As the demo pages on freecodecamp get more complex, I'm enjoying seeing the granularity of control that a developer can have over the presentation of graphics and elements. It's been tough to focus amidst all of the COVID-19 chaos, but I'm doing what I can.
+
+**Link(s) to Work:**
+* [My profile on freecodecamp.org](https://freecodecamp.org/jgatka)
+
+<hr />
+
 ### Day 52, March 16th, 2020
 #### <em>Justify-content & Align-items</em>
 
