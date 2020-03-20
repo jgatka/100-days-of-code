@@ -1,5 +1,45 @@
 # 100 Days Of Code - Log
 
+### Day 54, March 19th, 2020
+#### <em>✅ You're a Square!</em>
+
+**Today's Progress:** I completed three tutorials on freecodecamp.org. tonight. I also completed the codewars.com kata <em>You're a Square</em>.
+
+* Use the flex Shorthand Property
+* Use the flex-basis Property to Set the Initial Size of an Item
+* Use the flex-grow Property to Expand Items
+
+**Thoughts:** COVID-19 is causing me to stay indoors indefinitely. After some research, it turns out I was overthinking the perfect squares kata. I overthink sometimes. the python "math" library is powerful, and using the math.sqrt method saved me a lot of steps. The challenge after that became using int and adding 0.5 to integers to round to the appropriate value. I'm glad I finally have this kata removed from my "unfinshed" list on codwars.com.
+
+**Link(s) to Work:**
+* [My profile on freecodecamp.org](https://freecodecamp.org/jgatka)
+* [Completed Solutions: Codewars.com](https://www.codewars.com/users/jgatka/completed_solutions)
+
+<em>My Solution to [You're a Square](https://www.codewars.com/kata/54c27a33fb7da0db0100040e):</em>
+```python3
+def is_square(n):    
+    
+    # negative numbers cannot be square numbers
+    if (int(n) < 0):
+        return False
+    
+    if (int(n) == 0):
+        return True
+    
+    import math
+    # calculate the square root of the number
+    sq_root = int(math.sqrt(n))
+    
+    # if the square root squared equals the number, than the number is a perfect square.
+    # using int and adding .5 will round so that large integers will still make this calculation correctly.
+    if (int(sq_root + 0.5) ** 2) == n:
+        return True
+    else:
+        return False
+```
+
+<hr />
+
 ### Day 53, March 18th, 2020
 #### <em>Flex-shrink, Flex-wrap, and more Align-items</em>
 
