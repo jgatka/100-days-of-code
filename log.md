@@ -1,5 +1,21 @@
 # 100 Days Of Code - Log
 
+### Day 55, March 21st, 2020
+#### <em>✅ CSS Flexbox</em>
+
+**Today's Progress:** Tonight I completed the final two tutorials in the <em>CSS Flexbox</em> chapter of codewars.com. I also attempted to create a solution for the codewars.com kata <em>Counting Duplicates</em>, however, I haven't been successful at solving the kata (yet).
+
+* Use the align-self Property
+* Use the order Property to Rearrange Items
+
+**Thoughts:** I'm finished with the CSS Flexbox chapter, the 22 tutorials of the CSS Grid chapter and the 5 Responsive Web Design projects are all that separate me from the <em>Responsive Web Design</em> certification!
+
+**Link(s) to Work:**
+* [My profile on freecodecamp.org](https://freecodecamp.org/jgatka)
+* [Counting Duplicates - A codewars.com Kata](https://www.codewars.com/kata/54bf1c2cd5b56cc47f0007a1)
+
+<hr />
+
 ### Day 54, March 19th, 2020
 #### <em>✅ You're a Square!</em>
 
