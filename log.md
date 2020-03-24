@@ -1,5 +1,22 @@
 # 100 Days Of Code - Log
 
+### Days 56-57, March 22nd - 23rd, 2020
+#### <em>?</em>
+
+**Today's Progress:** I've spent the past two days trying to solve the <em>Counting Duplicates</em> kata on <em>codewars.com</em> I have yet to solve it. I also started the <em>CSS Grid</em> chapter on <em>freecodecamp.org</em>, and completed 3 tutorials:
+
+* Add Rows with grid-template-rows
+* Add Columns with grid-template-columns
+* Create Your First CSS Grid
+
+**Thoughts:** I can tell I'm getting closer to the solution for the counting duplicates kata, but I think tomorrow I'm going to try going about it in a different way. I've been using lists in a way where it might make more sense to use a dictionary. I'll try that approach tomorrow. The CSS grid tutorials make sense so far. Just as with some of the earlier chapters, I'm surprised at how many ways there are to accomplish the same task in HTML/CSS.
+
+**Link(s) to Work:**
+* [My profile on freecodecamp.org](https://freecodecamp.org/jgatka)
+* [Counting Duplicates - A codewars.com Kata](https://www.codewars.com/kata/54bf1c2cd5b56cc47f0007a1)
+
+<hr />
+
 ### Day 55, March 21st, 2020
 #### <em>✅ CSS Flexbox</em>
 
