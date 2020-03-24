@@ -1,7 +1,7 @@
 # 100 Days Of Code - Log
 
 ### Days 56-57, March 22nd - 23rd, 2020
-#### <em>?</em>
+#### <em>CSS Grid</em>
 
 **Today's Progress:** I've spent the past two days trying to solve the <em>Counting Duplicates</em> kata on <em>codewars.com</em> I have yet to solve it. I also started the <em>CSS Grid</em> chapter on <em>freecodecamp.org</em>, and completed 3 tutorials:
 
