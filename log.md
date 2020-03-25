@@ -1,5 +1,22 @@
 # 100 Days Of Code - Log
 
+### Day 58, March 24th, 2020
+####<em>Grid Gap</em>
+
+**Today's Progress:** I took a break from the Counting Duplicates kata and instead completed 4 tutorials in the <em>CSS Grid</em> chapter of freecodecamp.org
+
+* Add Gaps Faster with grid-gap
+* Create a Row Gap using grid-row-gap
+* Create a Column Gap Using grid-column-gap
+* Use CSS Grid units to Change the Size of Columns and Rows
+
+**Thoughts:** Tonight I learned multiple was to space content out inside of a container, and I also learned how to create gaps of space in between rows and columns. 
+
+**Link(s) to Work:**
+* [My profile on freecodecamp.org](https://freecodecamp.org/jgatka)
+
+<hr />
+
 ### Days 56-57, March 22nd - 23rd, 2020
 #### <em>CSS Grid</em>
 
