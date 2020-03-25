@@ -1,7 +1,7 @@
 # 100 Days Of Code - Log
 
 ### Day 58, March 24th, 2020
-####<em>Grid Gap</em>
+#### <em>Grid Gap</em>
 
 **Today's Progress:** I took a break from the Counting Duplicates kata and instead completed 4 tutorials in the <em>CSS Grid</em> chapter of freecodecamp.org
 
