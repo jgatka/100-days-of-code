@@ -1,5 +1,98 @@
 # 100 Days Of Code - Log
 
+### Days 59-61, March 25th-27th, 2020
+#### ✅ Counting Duplicates
+
+**Today's Progress:** After 3+ days of refactoring and trying different ways of going about solving the problem, I finally completed the <em>Counting Duplicates</em> kata on freecodewars.com. I also completed 3 tutorials in the <em>CSS Grid</em> chapter from freecodecamp.org
+
+* Use grid-column to Control Spacing
+* Use grid-row to Control Spacing
+* Align an Item Horizontally using justify-self
+
+**Thoughts:** This codewars kata was the most challenging one yet. I spent a lot of time trying to write code that would perform what I later found out is exactly what the 'set' method does. Figuring out that I could trim duplicates from a list simply by calling 'set' on it was a game changer. This was also the first time in a while that I built a dictionary, so it was nice to practice that skill again. My current rank on codewars is 7 kyu (white belt) but this was a 6 kyu kata and I'm 67% towards my 6 kyu (yellow belt). Each codewars user starts at 8 kyu and progresses to 1 kyu and then on to 1 dan (master) level. In case you haven't inferred this yet, the system is influenced by martial arts. From Codewars wiki on github:
+
+<em>"Why the names Kyu and Dan? The terms are borrowed from a system in Japanese martial arts, which is in turn borrowed from the game of Go. Kyu (or Kyū) indicates the number of degrees away from master level (Dan). This is why they count downward. Once you reach master level, we count upward. Black belts in martial arts are Dan level."</em>
+
+I continued to learn about how customizable columns, rows, cells, and their contents are in CSS as well. Freecodecamp.org is so rad.
+
+**Link(s) to Work:**
+* [My profile on freecodecamp.org](https://freecodecamp.org/jgatka)
+* [Counting Duplicates - A codewars.com Kata](https://www.codewars.com/kata/54bf1c2cd5b56cc47f0007a1)
+* [Completed Solutions: Codewars.com](https://www.codewars.com/users/jgatka/completed_solutions)
+
+<strong>Kata instructions for <em>Counting Duplicates:</em></strong>
+
+Write a function that will return the count of distinct case-insensitive alphabetic characters and numeric digits that occur more than once in the input string. The input string can be assumed to contain only alphabets (both uppercase and lowercase) and numeric digits.
+Example
+
+"abcde" -> 0 # no characters repeats more than once
+"aabbcde" -> 2 # 'a' and 'b'
+"aabBcde" -> 2 # 'a' occurs twice and 'b' twice (`b` and `B`)
+"indivisibility" -> 1 # 'i' occurs six times
+"Indivisibilities" -> 2 # 'i' occurs seven times and 's' occurs twice
+"aA11" -> 2 # 'a' and '1'
+"ABBA" -> 2 # 'A' and 'B' each occur twice
+
+<strong>My solution for the <em>Counting Duplicates</em> kata:</strong>
+
+```python3
+def duplicate_count(text):
+    char_x_occurrences = {}
+    char_is_dupe = False
+    
+    # number of characters that are duplicates
+    num_dupes = 0
+    
+    # list of characters from the input string
+    # Note that the text is first converted to lower case to avoid case errors
+    list_of_chars = list(text.lower())
+    
+    # count the amount of characters in the list
+    list_of_chars_count = len(list_of_chars)
+    
+    print('[-] There are ' + str(list_of_chars_count) + ' characters in ' + text + '.')
+    print('[-] The characters in ' + text + ' are: ' + str(list_of_chars) + '.')
+    
+    ''' We need a working list. This list will be used 
+    to count the amount of characters in the main list.
+    since a set has no duplicate values, we will use it
+    against text to get a working list with no duplicates
+    '''
+    working_list = []
+    working_list = set(text)
+    
+    # I need to count the amount of times that each char appears in the list...
+    for char in working_list:
+        
+        print('[-] Now checking, ' + '\'' + char + '\'...')
+        
+        # Add the char and the number of times it appears
+        char_x_occurrences[char] = list_of_chars.count(char)
+        print('[-]Number of occurrences of ' + str(char) + ': ' + str(char_x_occurrences[char]))
+        if char_x_occurrences[char] > 1:
+            char_is_dupe = True
+        else:
+            char_is_dupe = False
+        
+        
+        # Report back to user
+        print("[-] Chars & Occurrences: ")
+        print(char_x_occurrences)
+    
+        if char_is_dupe == True:
+            num_dupes +=1
+    
+    if num_dupes > 0:
+        print('[+] there are ' + str(num_dupes) + ' characters that repeat')
+    else:
+        print('[-] there are ' + str(num_dupes) + ' characters that repeat')
+    
+    
+    return(num_dupes)
+```
+
+<hr />
+
 ### Day 58, March 24th, 2020
 #### <em>Grid Gap</em>
 
