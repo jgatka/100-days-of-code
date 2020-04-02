@@ -1,5 +1,24 @@
 # 100 Days Of Code - Log
 
+### Day 62, April 1st, 2020
+#### <em>More fun with grids</em>
+
+**Today's Progress:** It's been an eventful week. I started at a new employer and my basement flooded. Onboarding and paperwork have kept me busy when cleaning up the flood damage hasn't. I returned to my regularly scheduled programming today (see what I did there?), and completed a few tutorials on freecodecamp. I also set up my new, work-provided pluralsight account so that I can return to the C# coursework that I had to step away from 13 months ago because I left the employer that was providing it for me.
+
+* Use grid-area Without Creating an Areas Template
+* Place Items in Grid Areas Using the grid-area Property
+* Divide the Grid Into an Area Template
+* Align All Items Vertically using align-items
+* Align All Items Horizontally using justify-items
+* Align an Item Vertically using align-self
+
+**Thoughts:** It's been a really challenging week to keep at it, but on the bright side, I should be done with tutorials, and starting the projects this weekend. And I have a pluralsight license again, so I can finally return to learning C#/.NET!
+
+**Link(s) to Work:**
+* [My profile on freecodecamp.org](https://freecodecamp.org/jgatka)
+
+<hr />
+
 ### Days 59-61, March 25th-27th, 2020
 #### ✅ Counting Duplicates
 
