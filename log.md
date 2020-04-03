@@ -1,4 +1,58 @@
 # 100 Days Of Code - Log
+### Day 63, April 2nd, 2020
+#### <em>7kyu coding session</em>
+
+**Today's Progress:** I wanted a break from freecodecamp, so I knocked out three 7kyu katas on codewars.com
+
+* List FIltering
+* Ones and Zeros
+* Number of People in the Bus
+
+**Thoughts:** I now have a pretty good body of proof that I've upgraded my python development skills. I went back to my list of incomplete katas, hoping to knock out every 7kyu one that was left. I now have only one left (_Isograms_). I like that <em>Ones and Zeroes</em> made me combine my networking knowledge with my programming knowledge. It was the first time I had to calculate base 2 numbers in a long time. Excited to finish the last 7kyu kata, as well as the last few remaining tutorials in the freecodecamp course, so that I can begin work on the final projects.
+
+**Link(s) to Work:**
+* [Completed Solutions: Codewars.com](https://www.codewars.com/users/jgatka/completed_solutions)
+* [List Filtering: Codewars.com](https://www.codewars.com/kata/53dbd5315a3c69eed20002dd)
+* [Ones and Zeroes: Codwars.com](https://www.codewars.com/kata/578553c3a1b8d5c40300037c)
+* [Number of People in the Bus](https://www.codewars.com/kata/5648b12ce68d9daa6b000099)
+
+<em>My solution for "List Filtering", a codewars.com kata:</em>
+```python3
+import sys, math, os
+def filter_list(list):
+    hits = []
+    for item in list:
+      if type(item) == str:
+          print('[-] ' + item + ' not added to hit list!')    
+      elif type(item) == int:
+          print('[+] ' + str(item) + ' added to hit list!')
+          hits.append(item)
+      else:
+          pass
+    return hits  
+```
+<em>My solution for "Ones and Zeroes", a codewars.com kata:</em>
+```python3
+def binary_array_to_number(arr):
+  # your code
+  solution = 0
+  power = 0
+  for value in reversed(arr):
+      solution += value*(2**power)
+      power += 1
+  
+  return solution
+```
+<em>My solution for "Number of People in the Bus", a codewars.com kata:</em>
+```python3
+def number(bus_stops):
+    # Good Luck!
+    num_passengers = 0
+    for stop in bus_stops:
+        num_passengers += stop[0]
+        num_passengers -= stop[1]
+    return num_passengers
+```
 
 ### Day 62, April 1st, 2020
 #### <em>More fun with grids</em>
