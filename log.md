@@ -1,6 +1,6 @@
 # 100 Days Of Code - Log
 ### Day 63, April 2nd, 2020
-#### <em>7kyu coding session</em>
+#### <em> ✅ 7kyu coding session</em>
 
 **Today's Progress:** I wanted a break from freecodecamp, so I knocked out three 7kyu katas on codewars.com
 
