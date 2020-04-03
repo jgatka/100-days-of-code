@@ -54,6 +54,8 @@ def number(bus_stops):
     return num_passengers
 ```
 
+<hr />
+
 ### Day 62, April 1st, 2020
 #### <em>More fun with grids</em>
 
