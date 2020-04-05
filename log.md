@@ -1,4 +1,37 @@
 # 100 Days Of Code - Log
+
+### Day 64, April 4th, 2020
+#### <em>✅ 6kyu</em>
+
+**Today's Progress:** I completed my final unfinished 7kyu kata on codewars.com and advanced to 6kyu. 
+
+**Thoughts:** I'm happy to have finally advanced to 6kyu. I even introduced two friends to the site and now they are my "allies". I look forward to the increased difficulty of the 6kyu challenges.
+
+**Link(s) to Work:**
+* [Completed Solutions: Codewars.com](https://www.codewars.com/users/jgatka/completed_solutions)
+* [Isograms: A codewars.com Kata] https://www.codewars.com/kata/54ba84be607a92aa900000f1
+
+<em>My solution for "Isograms", a codewars.com kata:</em>
+```python3
+
+def is_isogram(string):
+    solution = True
+    list_chars = list(string.lower())
+    print("List f chars: ")
+    print(list_chars)
+    for char in list_chars:
+        solution = True
+        if list_chars.count(char) >= 2:
+            solution = False
+            return solution
+        else:
+            solution = True
+            
+    return solution
+```
+
+<hr />
+
 ### Day 63, April 2nd, 2020
 #### <em> ✅ 7kyu coding session</em>
 
