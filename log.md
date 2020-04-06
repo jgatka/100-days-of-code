@@ -24,7 +24,7 @@
 
 **Link(s) to Work:**
 * [Completed Solutions: Codewars.com](https://www.codewars.com/users/jgatka/completed_solutions)
-* [Isograms: A codewars.com Kata] https://www.codewars.com/kata/54ba84be607a92aa900000f1
+* [Isograms: A codewars.com Kata](https://www.codewars.com/kata/54ba84be607a92aa900000f1)
 
 <em>My solution for "Isograms", a codewars.com kata:</em>
 ```python3
