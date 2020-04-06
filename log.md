@@ -1,4 +1,19 @@
 # 100 Days Of Code - Log
+### Day 65, April 5th, 2020
+#### <em> Repeat, Minmax, Auto-fill</em>
+
+**Today's Progress:** Today I completed 3 tutorials in the CSS Grid portion of the freecodecamp.org course on responsive web design. There are only 3 exercises remaining, followed by 5 final projects.
+
+* Create Flexible Layouts Using auto-fill
+* Limit Item Size Using the minmax Function
+* Reduce Repetition Using the repeat Function
+
+**Thoughts:** The ability to use repeat, minmax, and auto-fill to keep a page looking consistent at any size/screen is pretty neat.
+
+**Link(s) to Work:**
+* [My profile on freecodecamp.org](https://freecodecamp.org/jgatka)
+
+<hr />
 
 ### Day 64, April 4th, 2020
 #### <em>✅ 6kyu</em>
