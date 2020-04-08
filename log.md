@@ -1,4 +1,20 @@
 # 100 Days Of Code - Log
+### Day 66 & 67, April 6th & 7th, 2020
+#### <em>CSS Grid</em>
+
+**Today's Progress:** I finished the remainder of the tutorials in the CSS Grid portion of the freecodecamp.org course on responsive web design. All that's left to do for the certification is the final projects!
+
+* Create Grids within Grids
+* Use Media Queries to Create Responsive Layouts
+* Create Flexible Layouts Using auto-fit
+
+**Thoughts:** YAY FINAL PROJECTS TIME!
+
+**Link(s) to Work:**
+* [My profile on freecodecamp.org](https://freecodecamp.org/jgatka)
+
+<hr />
+
 ### Day 65, April 5th, 2020
 #### <em> Repeat, Minmax, Auto-fill</em>
 
