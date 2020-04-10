@@ -1,4 +1,17 @@
 # 100 Days Of Code - Log
+### Day 68 & 69, April 86th  9th, 2020
+#### <em>Return to Pluralsight & C#</em>
+
+**Today's Progress:** I'm back to working for an employer that provides pluralsight access as a perk of working there. I'm so grateful. Today I installed .NET Core and Visual Studio Code on my work laptop and my home PC. From there I started the C# Fundamentals course and completed 13% of it.
+
+**Thoughts:** Scott Allen is a great professor. Years ago I completed a C# course he taught on <em>Microsoft Virtual Academy</em>, which was free. I also completed his C# Fundamentals with Visual Studio course on Pluralsight years ago when I had pluralsight at my previous employer. I'm sure that this course will be largely a review, but I don't care. I could use the review, and I want to climb the C# learning path. I want to be at the level of a junior developer, so that I can write and recommend secure code in addition to just being able to read and review it. I really like C#, and I'm so happy to be back to writing it.
+
+**Link(s) to Work:**
+* [My Profile on Pluralsight](https://app.pluralsight.com/profile/josh-gatka-f9)
+* [C# Fundamentals Course](https://app.pluralsight.com/library/courses/csharp-fundamentals-dev)
+
+<hr />
+
 ### Day 66 & 67, April 6th & 7th, 2020
 #### <em>CSS Grid</em>
 
