@@ -1,4 +1,18 @@
 # 100 Days Of Code - Log
+
+### Days 70-72, April 10th-12th, 2020
+#### <em>Tribute Page Project</em>
+
+**Today's Progress:** For the past three days, all of my coding work has been focused on the first of the final projects, designing a tribute page.
+
+**Thoughts:** I've been fascinated with the life and art of Kurt Cobain for awhile, so I decided to make my tribute page about him. I'm having an absolute blast doing this. I picked fonts that look like the Nirvana logo and Kurt's handwriting (I've read his journals, that have been published), and I picked a color schema that reminiscent of Nirvana t-shirts that I've seen. The site looks great so far, I'm just working through all of the requirements now.
+
+**Link(s) to Work:**
+* [FCC: Tribute Page - Kurt Cobain](https://codepen.io/jgatka/pen/dyYPVaP)
+* [My profile on freecodecamp.org](https://freecodecamp.org/jgatka)
+
+<hr />
+
 ### Day 68 & 69, April 86th  9th, 2020
 #### <em>Return to Pluralsight & C#</em>
 
