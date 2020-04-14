@@ -1,5 +1,18 @@
 # 100 Days Of Code - Log
 
+### Day 73, April 13th, 2020
+#### <em>Gradebook</em>
+
+**Today's Progress:** I put in some work on the tribute page today, and I uploaded the gradebook program that is part of the C# course to github, so that I can work on it at home and push changes to the main repo using my personal github account. This required me to create a repo, push my local directory to the repo, use my work account to send my personal account an invite to collaborate, accept the invite using my personal account and then clone the repo to my home PC.
+
+**Thoughts:** I guess I learned more about github today then I did about HTML/CSS/Python/C# - I suppose it's important to be well rounded though 🤔
+
+**Link(s) to Work:**
+* [FCC: Tribute Page - Kurt Cobain](https://codepen.io/jgatka/pen/dyYPVaP)
+* [My profile on freecodecamp.org](https://freecodecamp.org/jgatka)
+
+<hr />
+
 ### Days 70-72, April 10th-12th, 2020
 #### <em>Tribute Page Project</em>
 
