@@ -1,5 +1,16 @@
 # 100 Days Of Code - Log
 
+### Day 74, April 14th, 2020
+#### <em>Tribute Page</em>
+
+**Today's Progress:** I worked on my tribute page project today. All of the elements have been added and all that's left to do is to ensure that the adaptive design is in place.
+
+**Thoughts:** I find myself working on the look and feel of the page instead of just blindly chasing the requirements. I'm having fun.
+
+**Link(s) to Work:**
+* [FCC: Tribute Page - Kurt Cobain](https://codepen.io/jgatka/pen/dyYPVaP)
+* [My profile on freecodecamp.org](https://freecodecamp.org/jgatka)
+
 ### Day 73, April 13th, 2020
 #### <em>Gradebook</em>
 
