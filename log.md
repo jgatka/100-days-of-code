@@ -11,6 +11,8 @@
 * [FCC: Tribute Page - Kurt Cobain](https://codepen.io/jgatka/pen/dyYPVaP)
 * [My profile on freecodecamp.org](https://freecodecamp.org/jgatka)
 
+<hr />
+
 ### Day 73, April 13th, 2020
 #### <em>Gradebook</em>
 
