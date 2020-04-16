@@ -1,5 +1,17 @@
 # 100 Days Of Code - Log
 
+### Day 76, April 16th, 2020
+#### <em>✅ Tribute Page</em>
+
+**Today's Progress:** Today I completed my tribute web page to Kurt Cobain. The project passed all tests and looks pretty good if I do say so myself.
+
+**Thoughts:** One project down, 4 to go!
+
+* [FCC: Tribute Page - Kurt Cobain](https://codepen.io/jgatka/pen/dyYPVaP)
+* [My profile on freecodecamp.org](https://freecodecamp.org/jgatka)
+
+<hr />
+
 ### Day 75, April 15th, 2020
 #### <em>9/10 Ain't Bad</em>
 
