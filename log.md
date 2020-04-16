@@ -1,5 +1,18 @@
 # 100 Days Of Code - Log
 
+### Day 75, April 15th, 2020
+#### <em>9/10 Ain't Bad</em>
+
+**Today's Progress:** I worked on the tribute page today. I've passed 9 out of the 10 unit tests for the page. Tomorrow I'll focus on fixing the formatting of the div element that's causing the final test to fail.
+
+**Thoughts:** It's still strange to look at this page that I've created. I'm really proud of it. My days of taking shots in the dark and trying to format my MySpace page using copied and pasted HTML are long behind me.
+
+**Link(s) to Work:**
+* [FCC: Tribute Page - Kurt Cobain](https://codepen.io/jgatka/pen/dyYPVaP)
+* [My profile on freecodecamp.org](https://freecodecamp.org/jgatka)
+
+<hr />
+
 ### Day 74, April 14th, 2020
 #### <em>Tribute Page</em>
 
