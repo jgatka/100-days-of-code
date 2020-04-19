@@ -1,4 +1,16 @@
 # 100 Days Of Code - Log
+### Day 77-78, April 17th-18th, 2020
+#### <em>✅C# Syntax</em>
+
+**Today's Progress:** Today I completed the Syntax module on the Pluralsight course on C# Fundamentals, taught by Scott Allen.
+
+**Thoughts:** I'm starting to feel like I'm working on too many learning domains at once, so I may need to spend a day or week focused on plowing through the remainder of the freecodecamp projects, and putting aside the codewars and pluralsight. Or not 🤷‍♂️.
+
+**Link(s) to Work:**
+* [My Profile on Pluralsight](https://app.pluralsight.com/profile/josh-gatka-f9)
+* [C# Fundamentals Course](https://app.pluralsight.com/library/courses/csharp-fundamentals-dev)
+
+<hr />
 
 ### Day 76, April 16th, 2020
 #### <em>✅ Tribute Page</em>
