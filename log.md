@@ -6,7 +6,7 @@
 
 **Thoughts:** I have a few ideas for what I want to do with the survey...possibly a guitar survey or survey about my band's first song, but  haven't decided for sure yet. It has to be fun to keep me engaged.
 
-**Link(s) to Work
+**Link(s) to Work:**
 * [FCC: Survey Form](https://codepen.io/jgatka/pen/yLYJmjE)
 * [My profile on freecodecamp.org](https://freecodecamp.org/jgatka)
 
