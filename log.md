@@ -1,4 +1,17 @@
 # 100 Days Of Code - Log
+### Day 79, April 19th, 2020
+#### <em>Survey Form</em>
+
+**Today's Progress:** Today I started working on the survey form project. I forked the code which will allow for me to run unit tests, began creating the CSS properties, and stylized some fonts.
+
+**Thoughts:** I have a few ideas for what I want to do with the survey...possibly a guitar survey or survey about my band's first song, but  haven't decided for sure yet. It has to be fun to keep me engaged.
+
+**Link(s) to Work
+* [FCC: Survey Form](https://codepen.io/jgatka/pen/yLYJmjE)
+* [My profile on freecodecamp.org](https://freecodecamp.org/jgatka)
+
+<hr />
+
 ### Day 77-78, April 17th-18th, 2020
 #### <em>✅C# Syntax</em>
 
