@@ -1,4 +1,17 @@
 # 100 Days Of Code - Log
+### Day 80-82, April 20th - 22nd, 2020
+#### <em>C# Classes, Objects, Testing</em>
+
+**Today's Progress:** I complted two modules in the C# Fundamentals course on Pluralsight. One on Classes & Objects, and a second module on testing your code. I also signed up for Portswigger.net's web security academy. Now that I have a Burp Suite Pro license I can return to serious study of web app pentesting. Conntinuing to learn how to break as I learn how to build.
+
+**Thoughts:** I am tired today. Keep on keeping on. Some of the C# OOP stuff doesn't make sense yet. I've been here before. For me at least, some of this will have to "click" while I'm actually writing code instead of studying how to write it. I can't wait to jump back into the FCC.org stuff and finish my projects.
+
+**Link(s) to Work:**
+* [My Profile on Pluralsight](https://app.pluralsight.com/profile/josh-gatka-f9)
+* [C# Fundamentals Course](https://app.pluralsight.com/library/courses/csharp-fundamentals-dev)
+
+<hr />
+
 ### Day 79, April 19th, 2020
 #### <em>Survey Form</em>
 
