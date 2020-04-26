@@ -2,7 +2,7 @@
 ### Day 86: April 26th, 2020
 #### <em>✅Simple Pig Latin</em>
 
-**Today's Progress:** I finished the Simple Pig Latin kata today. This is the first 5kyu kata that I've completed. I also put some work into my surven form project on freecodecamp.
+**Today's Progress:** I finished the Simple Pig Latin kata today. This is the first 5kyu kata that I've completed. I also put some work into my survey form project on freecodecamp.
 
 **Thoughts:** I was able to figure out the missing piece of the pig latin kata by adding a single line of python. That was pretty cool. The form project is proving a bit more challenging. I want my page to look good, I'm treating my codepen page like a portfolio. I'm having trouble formatting my survey form to look good atop the background and beneath the title/description I've created. It's going to require me going back and digging into the tutorials to chronologically build the form in a way that is organized and appealing.
 
