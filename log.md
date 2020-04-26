@@ -1,4 +1,58 @@
 # 100 Days Of Code - Log
+### Day 86: April 26th, 2020
+####<em>✅Simple Pig Latin</em>
+
+**Today's Progress:** I finished the Simple Pig Latin kata today. This is the first 5kyu kata that I've completed. I also put some work into my surven form project on freecodecamp.
+
+**Thoughts:** I was able to figure out the missing piece of the pig latin kata by adding a single line of python. That was pretty cool. The form project is proving a bit more challenging. I want my page to look good, I'm treating my codepen page like a portfolio. I'm having trouble formatting my survey form to look good atop the background and beneath the title/description I've created. It's going to require me going back and digging into the tutorials to chronologically build the form in a way that is organized and appealing.
+
+* [FCC: Survey Form](https://codepen.io/jgatka/pen/yLYJmjE)
+* [My profile on freecodecamp.org](https://freecodecamp.org/jgatka)
+* [Simple Pig Latin: A Codewars Kata](https://www.codewars.com/kata/520b9d2ad5c005041100000f)
+* [Completed Codewars Solutions: jgatka](https://www.codewars.com/users/jgatka/completed)
+
+<em>My solution for "Simple Pig Latin" - a codewars.com kata:</em>
+```python3
+def pig_it(text):
+    solution_list = []
+    solution = ""
+    a = "a"
+    y = "y"
+    new_word = ""
+    len_chars = 0
+    punctuation_chars = ['.','?','!','¿','¡']
+    words = list(text.split(' '))
+    print("Words: " + str(words))
+    for word in words:
+        print("Word: " + word)
+        chars = list(word)
+        print("Chars: " + str(chars))
+        first_char = chars[0]
+        # Don't pig-latinize punctuation
+        if first_char in punctuation_chars:
+            new_word = ''.join(first_char)
+            solution += (new_word + ' ')
+        # Not a punctuation mark? Cool - pig-latinize it
+        else:
+            print("First char: " + str(chars[0]))
+            chars.append(first_char)
+            print("After append: " + str(chars))
+            chars.pop(0)
+            print("After pop: " + str(chars))
+            chars.append(a)
+            chars.append(y)
+            print("After pig latinized: " + str(chars))
+            new_word = ''.join(chars)
+            solution += (new_word + ' ')
+        
+        
+    # trim leading and trailing spaces
+    solution = solution.strip()
+    return solution
+```
+
+<hr />
+
 ### Day 83-85, April 23-25, 2020
 #### <em>Simple Pig Latin</em>
 
@@ -8,7 +62,7 @@
 
 **Link(s) to Work:**
 * [Simple Pig Latin: A Codewars Kata](https://www.codewars.com/kata/520b9d2ad5c005041100000f)
-* [Unfinished Codwars Solutions: jgatka](https://www.codewars.com/users/jgatka/unfinished)
+* [Unfinished Codewars Solutions: jgatka](https://www.codewars.com/users/jgatka/unfinished)
 * [My Profile on Pluralsight](https://app.pluralsight.com/profile/josh-gatka-f9)
 * [C# Fundamentals Course](https://app.pluralsight.com/library/courses/csharp-fundamentals-dev)
 * [FCC: Survey Form](https://codepen.io/jgatka/pen/yLYJmjE)
@@ -211,7 +265,7 @@ def is_isogram(string):
 **Link(s) to Work:**
 * [Completed Solutions: Codewars.com](https://www.codewars.com/users/jgatka/completed_solutions)
 * [List Filtering: Codewars.com](https://www.codewars.com/kata/53dbd5315a3c69eed20002dd)
-* [Ones and Zeroes: Codwars.com](https://www.codewars.com/kata/578553c3a1b8d5c40300037c)
+* [Ones and Zeroes: codewars.com](https://www.codewars.com/kata/578553c3a1b8d5c40300037c)
 * [Number of People in the Bus](https://www.codewars.com/kata/5648b12ce68d9daa6b000099)
 
 <em>My solution for "List Filtering", a codewars.com kata:</em>
@@ -425,7 +479,7 @@ def duplicate_count(text):
 * Use the flex-basis Property to Set the Initial Size of an Item
 * Use the flex-grow Property to Expand Items
 
-**Thoughts:** COVID-19 is causing me to stay indoors indefinitely. After some research, it turns out I was overthinking the perfect squares kata. I overthink sometimes. the python "math" library is powerful, and using the math.sqrt method saved me a lot of steps. The challenge after that became using int and adding 0.5 to integers to round to the appropriate value. I'm glad I finally have this kata removed from my "unfinshed" list on codwars.com.
+**Thoughts:** COVID-19 is causing me to stay indoors indefinitely. After some research, it turns out I was overthinking the perfect squares kata. I overthink sometimes. the python "math" library is powerful, and using the math.sqrt method saved me a lot of steps. The challenge after that became using int and adding 0.5 to integers to round to the appropriate value. I'm glad I finally have this kata removed from my "unfinshed" list on codewars.com.
 
 **Link(s) to Work:**
 * [My profile on freecodecamp.org](https://freecodecamp.org/jgatka)
@@ -557,7 +611,7 @@ to_weird_case('Weird string case') # => returns 'WeIrD StRiNg CaSe'
 **Thoughts:** I told myself that I would come back and complete at least one of the incomplete codewars.com katas that I had left unfinished. This one took some time to work out, but I finally figured out a solution (below).It was awesome to watch the solution pass all of its unit tests. I spent more time debugging than I did writing out the initial draft. Coming back to this kata after stepping away from it for so many days was difficult. Feeling pretty good today.
 
 **Link(s) to Work:**
-* [My Solutions - Codwars.com](https://www.codewars.com/users/jgatka/completed_solutions)
+* [My Solutions - codewars.com](https://www.codewars.com/users/jgatka/completed_solutions)
 * ["WeIrD StRiNg CaSe" - Codewars.com](https://www.codewars.com/kata/52b757663a95b11b3d00062d)
 
 <em>My solution to the codewars.com kata "WeIrD StRiNg CaSe":</em>
@@ -886,7 +940,7 @@ I learned how to change the rate of movement of animated elements, using the _ea
 * ["You're a Square!" - Codewars.com](https://www.codewars.com/kata/54c27a33fb7da0db0100040e/train/python)
 * [My Completed Solutions - Codewars.com](https://www.codewars.com/users/jgatka/completed_solutions)
 
-<em>My (still incomplete) solution to the codwars.com kata "You're a Square!":</em>
+<em>My (still incomplete) solution to the codewars.com kata "You're a Square!":</em>
 
 ```python
 def is_square(n):    
