@@ -2,13 +2,17 @@
 ### Day 83-85, April 23-25, 2020
 #### <em>Simple Pig Latin</em>
 
-**Today's Progress:** I worked on the codewars.com kata "simple pig latin"
+**Today's Progress:** I worked on the codewars.com kata "simple pig latin". I also completed the C# module on "testing your code" and I put some work into my survey form page on freecodecamp. A busy, if not exclusively focused, couple of days.
 
-**Thoughts:** I'm almost done with this one, I just need to figure out a way to get the code to put the punctuation in the proper spot.
+**Thoughts:** I'm almost done with this kata, I just need to figure out a way to get the code to put the punctuation in the proper spot.
 
 **Link(s) to Work:**
-[Simple Pig Latin: A Codewars Kata](https://www.codewars.com/kata/520b9d2ad5c005041100000f)
-[Unfinished Codwars Solutions: jgatka](https://www.codewars.com/users/jgatka/unfinished)
+* [Simple Pig Latin: A Codewars Kata](https://www.codewars.com/kata/520b9d2ad5c005041100000f)
+* [Unfinished Codwars Solutions: jgatka](https://www.codewars.com/users/jgatka/unfinished)
+* [My Profile on Pluralsight](https://app.pluralsight.com/profile/josh-gatka-f9)
+* [C# Fundamentals Course](https://app.pluralsight.com/library/courses/csharp-fundamentals-dev)
+* [FCC: Survey Form](https://codepen.io/jgatka/pen/yLYJmjE)
+* [My profile on freecodecamp.org](https://freecodecamp.org/jgatka)
 
 <hr />
 
