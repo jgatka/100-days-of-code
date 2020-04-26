@@ -1,6 +1,6 @@
 # 100 Days Of Code - Log
 ### Day 86: April 26th, 2020
-####<em>✅Simple Pig Latin</em>
+#### <em>✅Simple Pig Latin</em>
 
 **Today's Progress:** I finished the Simple Pig Latin kata today. This is the first 5kyu kata that I've completed. I also put some work into my surven form project on freecodecamp.
 
