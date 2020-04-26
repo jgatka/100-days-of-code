@@ -1,4 +1,17 @@
 # 100 Days Of Code - Log
+### Day 83-85, April 23-25, 2020
+#### <em>Simple Pig Latin</em>
+
+**Today's Progress:** I worked on the codewars.com kata "simple pig latin"
+
+**Thoughts:** I'm almost done with this one, I just need to figure out a way to get the code to put the punctuation in the proper spot.
+
+**Link(s) to Work:**
+[Simple Pig Latin: A Codewars Kata](https://www.codewars.com/kata/520b9d2ad5c005041100000f)
+[Unfinished Codwars Solutions: jgatka](https://www.codewars.com/users/jgatka/unfinished)
+
+<hr />
+
 ### Day 80-82, April 20th - 22nd, 2020
 #### <em>C# Classes, Objects, Testing</em>
 
