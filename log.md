@@ -1,4 +1,17 @@
 # 100 Days Of Code - Log
+### Days 87-90
+#### <em>Fun with Forms</em>
+
+**Today's Progress:** I worked on the survey form site, and finally got the form stylized the way that I want it.
+
+**Thoughts:** Part of me is mad at myself for being a perfectionist about these websites, but the other part of me is treating them like artifacts for a future portfolio - they <em>must</em> be quality works.
+
+**Link(s) to Work:**
+* [FCC: Survey Form](https://codepen.io/jgatka/pen/yLYJmjE)
+* [My profile on freecodecamp.org](https://freecodecamp.org/jgatka)
+
+<hr />
+
 ### Day 86: April 26th, 2020
 #### <em>✅Simple Pig Latin</em>
 
