@@ -1,5 +1,18 @@
 # 100 Days Of Code - Log
-### Days 87-90
+### Days 91-93: May 1st-3rd
+#### <em>Dropdowns and Radio Buttons</em>
+
+**Today's Progress**: I worked more on the survey form. The dropdown menu is complete, but I'm having trouble getting my labels to align with their respective radio buttons. Hoping to figure this out and fix it tomorrow.
+
+**Thoughts:** I like that the final projects force you to fix the problems that arise due to your own design decisions and code. W3schools and stackoverflow have been my friends these last few days.
+
+**Link(s) to Work:**
+* [FCC: Survey Form](https://codepen.io/jgatka/pen/yLYJmjE)
+* [My profile on freecodecamp.org](https://freecodecamp.org/jgatka)
+
+<hr />
+
+### Days 87-90: April 27th-30th
 #### <em>Fun with Forms</em>
 
 **Today's Progress:** I worked on the survey form site, and finally got the form stylized the way that I want it.
