@@ -1,5 +1,24 @@
 # 100 Days Of Code - Log
-### Days 91-93: May 1st-3rd
+### Days 94-99: May 4th-9th, 2020
+#### <em>✅ Survey Form</em>
+
+**Today's Progress:** I finished the survey form. 2 out of 5 final projects for the Responsive Web Design course are now finished.
+
+**Thoughts:** They say perfect is the enemy of done, but I could only tolerate so much asymmetry before submitting this final project. Two problems that I needed to work through were:
+* The order of the labels vs the inputs on both my radio buttons AND my checkboxes. Default is label then input, I wanted these switched.
+* The alignment of the labels and inputs
+
+I had to do a lot of googling and reading in order to figure out how to properly align the radio buttons, checkboxes, and their respective labels, and I'm still not 100% satisfied with the finished result. That said, I had to take a step back and re-examine my definition of done, something that I have to do all the time in the professional world. The page looks pretty cool objectively speaking, and it meets <u>all</u> of the requirements. All of the unit tests passed. So I'm moving on. Tomorrow is day 100, and I really want my responsive web design certification, even though I know it's going to take me beyond the 100 days in order to get it.
+
+I put a lot of my childhood into this survey form. I made it about classic 80's/90's WWF/WCW professional wrestling. I'm proud of the way the form looks on top of the background that I found, and of the fact that I picked font styles that will look familiar to fans of what is now called...sigh..."Sports Entertainment". Have a look, page is linked below.
+
+**Link(s) to Work:**
+* [FCC: Survey Form](https://codepen.io/jgatka/pen/yLYJmjE)
+* [My profile on freecodecamp.org](https://freecodecamp.org/jgatka)
+
+<br />
+
+### Days 91-93: May 1st-3rd, 2020
 #### <em>Dropdowns and Radio Buttons</em>
 
 **Today's Progress**: I worked more on the survey form. The dropdown menu is complete, but I'm having trouble getting my labels to align with their respective radio buttons. Hoping to figure this out and fix it tomorrow.
