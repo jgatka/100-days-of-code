@@ -16,7 +16,7 @@ I put a lot of my childhood into this survey form. I made it about classic 80's/
 * [FCC: Survey Form](https://codepen.io/jgatka/pen/yLYJmjE)
 * [My profile on freecodecamp.org](https://freecodecamp.org/jgatka)
 
-<br />
+<hr />
 
 ### Days 91-93: May 1st-3rd, 2020
 #### <em>Dropdowns and Radio Buttons</em>
