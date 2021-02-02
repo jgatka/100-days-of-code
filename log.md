@@ -1,9 +1,25 @@
 # 100 Days Of Code - Log
+
+###  Day 100 & Beyond: May 10th, 2020 - February 1st, 2021
+####<em>Passing The CISSP Exam</em>
+
+**Today's Progress:** Since my last update last spring, I focused my attention on studying for the CISSP exam. I took the exam on January 5th, and passed. It was the hardest exam I've ever taken, and all of the time spent studying was necessary in order to pass it. All of the paperwork is done, my endorsement has been received, and now all that's left to do is wait for ISC2 and the post office to do their thing. Did I code? Of course, but mostly one-off projects for work.
+
+**Thoughts:** Last week, 140 employees were let go at my former employer, in one massive unexpected layoff. The company had just celebrated a successful, profitable year, despite the pandemic. After I passed the CISSP exam, I told myself I'd focus on self-care and re-learning how to relax. The events of the last week served as a wake up call. My short-lived break is over. Most of the employees targeted in the layoffs were QA testers, and those that developed and maintained legacy products. Their jobs were either eliminated or outsourced to India and Poland. The cloud/automation reaper continues to accumulate casualties. My days as a security engineer will not last long enough for me to retire. One day, maybe 2 years from now, maybe 5 years from now, someone will invent some sort of blinky-box software that does my job about 33% as good as I do it, but will cost 66% less than my salary. And then I'll need to find a new job. That's why I need to start a new 100 days of code. That, and the same reasons I've always wanted to learn this. To build websites about things I'm passionate about, and possibly write my own app someday. I still have some projects to finish in the HTML & CSS course, and a some lessons to finish for the javascript data structures and algorithms course before I can start the projects and earn the certificate.
+
+I don't mean to dwell on negativity. I have a lot to hang my hat on. I completed some C#/.NET coursework on pluralsight last year, and according to microsoft's skill's assessment I'm rated as "proficient". If there's one thing that I learned in 2020, it's that I've yet to defeat my imposter syndrome. I've been told that one way to combat it is with positive affirmations. Well, I'm a proficient C# developer, I'm a competent security engineer, and pending some work from ISC2 and USPS, I'm a CISSP.
+
+**Link(s):**
+* [My profile on freecodecamp.org](https://freecodecamp.org/jgatka)
+* [My Profile on Pluralsight](https://app.pluralsight.com/profile/josh-gatka-f9)
+* [Completed Codewars Solutions: jgatka](https://www.codewars.com/users/jgatka/completed)
+* [How to Get Rich Sabotaging Nuclear Weapons Facilities by Matt Stoller](https://mattstoller.substack.com/p/how-to-get-rich-sabotaging-nuclear)
+
 ### Days 94-99: May 4th-9th, 2020
 #### <em>✅ Survey Form</em>
 
-**Today's Progress:** I finished the survey form. 2 out of 5 final projects for the Responsive Web Design course are now finished.
 
+**Today's Progress:** I finished the survey form. 2 out of 5 final projects for the Responsive Web Design course are now finished.
 **Thoughts:** They say perfect is the enemy of done, but I could only tolerate so much asymmetry before submitting this final project. Two problems that I needed to work through were:
 * The order of the labels vs the inputs on both my radio buttons AND my checkboxes. Default is label then input, I wanted these switched.
 * The alignment of the labels and inputs
