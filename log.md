@@ -1,7 +1,7 @@
 # 100 Days Of Code - Log
 
 ###  Day 100 & Beyond: May 10th, 2020 - February 1st, 2021
-####<em>Passing The CISSP Exam</em>
+#### <em>Passing The CISSP Exam</em>
 
 **Today's Progress:** Since my last update last spring, I focused my attention on studying for the CISSP exam. I took the exam on January 5th, and passed. It was the hardest exam I've ever taken, and all of the time spent studying was necessary in order to pass it. All of the paperwork is done, my endorsement has been received, and now all that's left to do is wait for ISC2 and the post office to do their thing. Did I code? Of course, but mostly one-off projects for work.
 
