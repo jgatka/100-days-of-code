@@ -6,11 +6,11 @@
 
 **Thoughts:** I thought about making the content of the page revolve around guitar tutorials, but the unit tests lend themselves towards a project similar to the one I forked off of. With that in mind, I've decided to make the page a Python tutorial. Not a bad way to ease back into my routine.
 
-**Link(s):
+**Link(s):**
 * [My profile on freecodecamp.org](https://freecodecamp.org/jgatka)
 
 <hr />
-## Start of a new 100 Days of Code
+### Start of a new 100 Days of Code
 <hr />
 
 ###  Day 100 & Beyond: May 10th, 2020 - February 1st, 2021
