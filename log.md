@@ -6,11 +6,11 @@
 
 **Thoughts:** I thought about making the content of the page revolve around guitar tutorials, but the unit tests lend themselves towards a project similar to the one I forked off of. With that in mind, I've decided to make the page a Python tutorial. Not a bad way to ease back into my routine.
 
-**Link(s):**
+**Link(s) to Work:**
 * [My profile on freecodecamp.org](https://freecodecamp.org/jgatka)
 
 <hr />
-### Start of a new 100 Days of Code
+**Start of a new 100 Days of Code**
 <hr />
 
 ###  Day 100 & Beyond: May 10th, 2020 - February 1st, 2021
@@ -22,7 +22,7 @@
 
 I don't mean to dwell on negativity. I have a lot to hang my hat on. I completed some C#/.NET coursework on pluralsight last year, and according to microsoft's skill's assessment I'm rated as "proficient". If there's one thing that I learned in 2020, it's that I've yet to defeat my imposter syndrome. I've been told that one way to combat it is with positive affirmations. Well, I'm a proficient C# developer, I'm a competent security engineer, and pending some work from ISC2 and USPS, I'm a CISSP.
 
-**Link(s):**
+**Link(s) to Work:**
 * [My profile on freecodecamp.org](https://freecodecamp.org/jgatka)
 * [My Profile on Pluralsight](https://app.pluralsight.com/profile/josh-gatka-f9)
 * [Completed Codewars Solutions: jgatka](https://www.codewars.com/users/jgatka/completed)
