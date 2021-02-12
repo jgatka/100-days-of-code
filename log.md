@@ -1,4 +1,17 @@
 # 100 Days Of Code - Log
+### Day 1: February 11th, 2021
+#### <em>Navbar Tweaks
+
+**Today's Progress:** I added code to make the navbar menu items change colors when you hover over them. I also added a google font so that I can change the color of the title.
+
+**Thoughts:** I thought about making the content of the page revolve around guitar tutorials, but the unit tests lend themselves towards a project similar to the one I forked off of. With that in mind, I've decided to make the page a Python tutorial. Not a bad way to ease back into my routine.
+
+**Link(s):
+* [My profile on freecodecamp.org](https://freecodecamp.org/jgatka)
+
+<hr />
+## Start of a new 100 Days of Code
+<hr />
 
 ###  Day 100 & Beyond: May 10th, 2020 - February 1st, 2021
 #### <em>Passing The CISSP Exam</em>
@@ -14,6 +27,8 @@ I don't mean to dwell on negativity. I have a lot to hang my hat on. I completed
 * [My Profile on Pluralsight](https://app.pluralsight.com/profile/josh-gatka-f9)
 * [Completed Codewars Solutions: jgatka](https://www.codewars.com/users/jgatka/completed)
 * [How to Get Rich Sabotaging Nuclear Weapons Facilities by Matt Stoller](https://mattstoller.substack.com/p/how-to-get-rich-sabotaging-nuclear)
+
+<hr />
 
 ### Days 94-99: May 4th-9th, 2020
 #### <em>✅ Survey Form</em>
