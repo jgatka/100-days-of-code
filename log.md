@@ -10,7 +10,9 @@
 * [My profile on freecodecamp.org](https://freecodecamp.org/jgatka)
 
 <hr />
-**Start of a new 100 Days of Code**
+
+## Start of a new 100 Days of Code
+
 <hr />
 
 ###  Day 100 & Beyond: May 10th, 2020 - February 1st, 2021
