@@ -7,7 +7,9 @@
 **Thoughts:** Took me a minute to remember some simple python syntax I haven't used in awhile. Hopefully I won't ever take so long of a break from writing code as I did between fall and spring.
 
 **Link(s) to Work:**
+
 <em>My solution to "Make the Deadfish swim", a Codwars.com kata:</em>
+
 ```python3
 
 # Instructions:
