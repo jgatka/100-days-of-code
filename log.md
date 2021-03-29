@@ -23,6 +23,8 @@
 # 	s squares the value
 # 	o outputs the value into the return array
 # 
+# Example: parse("iiisdoso")  ==>  [8, 64]
+# 
 # Invalid characters should be ignored.
 
 def parse(data):
@@ -59,7 +61,7 @@ def parse(data):
 ```
 * [My profile on codewars.com](https://www.codewars.com/users/jgatka)
 
-</ hr>
+<hr />
 
 ### Day 0: February 11th, 2021
 #### <em>Navbar Tweaks</em>
