@@ -1,6 +1,52 @@
 # 100 Days Of Code - Log
-### Day 1: February 11th, 2021
-#### <em>Navbar Tweaks
+### Day 1: March 28th, 2021
+#### Make the Deadfish swim
+
+**Today's Progress:** Decided to complete a Codewars kata to get back to it.
+
+**Thoughts:** Took me a minute to remember some simple python syntax I haven't used in awhile. Hopefully I won't ever take so long of a break from writing code as I did between fall and spring.
+
+**Link(s) to Work:**
+<em>My solution to "Make the Deadfish swim", a Codwars.com kata:</em>
+```python3
+def parse(data):
+    print('data: ' + data)
+    count = 0
+    array = []
+    
+    # Python3 program to Split string into characters
+    def split(word):
+        return [char for char in word]
+    
+    # calculate length of string
+    length = len(data)
+    print("data is " + str(length) + " character(s) long.")
+    
+    # split into chars
+    chars = split(data)
+    print("Chars in word: " + str(chars))
+    
+    # loop over the characters 
+    for char in chars:
+        if char == 'i':
+            count += 1
+        elif char == 'd':
+            count -= 1
+        elif char == 's':
+            count = count ** 2
+        elif char == 'o':
+            array.append(count)
+        else:
+            continue
+    
+    return array
+```
+* [My profile on codewars.com](https://www.codewars.com/users/jgatka)
+
+</ hr>
+
+### Day 0: February 11th, 2021
+#### <em>Navbar Tweaks</em>
 
 **Today's Progress:** I added code to make the navbar menu items change colors when you hover over them. I also added a google font so that I can change the color of the title.
 
